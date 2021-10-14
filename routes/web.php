@@ -4,9 +4,11 @@ use Illuminate\Support\Facades\Route;
 
 //
 use App\Http\Controllers\RegisterController;
+use App\Http\Controllers\CooperativeEstablishmentController;
 
 //
 use App\Http\Controllers\Admin\RegisterController as AdminRegisterController;
+use App\Http\Controllers\Admin\CooperativeEstablishmentController as AdminCooperativeEstablishmentController;
 
 //
 use App\Http\Controllers\Cooperative\FormController as CooperativeFormController;
@@ -22,30 +24,49 @@ use App\Http\Controllers\Cooperative\FormController as CooperativeFormController
 |
 */
 
+// HOME
 Route::get('/', function () { return view('welcome'); })->name('home');
+
+// Authentication
+require __DIR__.'/auth.php';
 Route::get('/dashboard', function () { return view('dashboard'); })->middleware(['auth:web,cooperative'])->name('dashboard');
 
+/**
+ * PUBLIC ROUTES
+ */
 // Registration
 Route::get('/registrasi', [RegisterController::class, 'index'])->name('registration');
 Route::get('/registrasi/success', [RegisterController::class, 'success'])->name('registration.success');
 Route::post('/registrasi', [RegisterController::class, 'store'])->name('registration.store');
+// Pendirian Koperasi - CooperativeEstablishment
+Route::get('/pendirian-koperasi', [CooperativeEstablishmentController::class, 'index'])->name('cooperative.establishment');
+Route::post('/pendirian-koperasi', [CooperativeEstablishmentController::class, 'store'])->name('cooperative.establishment.store');
 
-// Authentication
-require __DIR__.'/auth.php';
 
-// Admin
+/**
+ * ADMIN ROUTES
+ */
 Route::group([
     'prefix' => 'admin',
     'as' => 'admin.',
     'middleware' => ['auth:web']
 ], function () {
+    // register
     Route::get('/registrasi', [AdminRegisterController::class, 'index'])->name('registration');
     Route::get('/registrasi/{cooperative}', [AdminRegisterController::class, 'show'])->name('registration.show');
     Route::put('/registrasi/{cooperative}', [AdminRegisterController::class, 'update'])->name('registration.update');
+
+    //
+    Route::get('/pendirian-koperasi', [AdminCooperativeEstablishmentController::class, 'index'])->name('cooperative.establishment');
+    Route::get('/pendirian-koperasi/{id}/action', [AdminCooperativeEstablishmentController::class, 'action'])->name('cooperative.establishment.action');
+    Route::get('/pendirian-koperasi/terkonfirmasi/{id}', [AdminCooperativeEstablishmentController::class, 'confirm_show'])->name('cooperative.establishment.confirm_show');
+    Route::put('/pendirian-koperasi/terkonfirmasi/{id}', [AdminCooperativeEstablishmentController::class, 'confirm_update'])->name('cooperative.establishment.confirm_update');
 });
 
 
-// Admin
+/**
+ * COOPERATIVE ROUTES
+ */
 Route::group([
     'prefix' => 'cooperative',
     'as' => 'cooperative.',
