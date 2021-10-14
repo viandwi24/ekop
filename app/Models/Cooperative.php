@@ -47,4 +47,9 @@ class Cooperative extends Authenticatable
         'status' => 'boolean',
         'isbig' => 'boolean',
     ];
+
+    public function advocacy()
+    {
+        return $this->hasMany(AdvocacyPersonalData::class);
+    }
 }

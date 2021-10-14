@@ -7,10 +7,12 @@
     $adminMenu = [
         ['text' => 'Menu Registrasi', 'link' => route('admin.registration')],
         ['text' => 'Menu Pendirian Koperasi', 'link' => route('admin.cooperative.establishment')],
+        ['text' => 'Menu Advokasi', 'link' => route('admin.cooperative.advocacy')],
     ];
 
     $cooperativeMenu = [
         ['text' => 'Update Formulir', 'link' => route('cooperative.form.edit')],
+        ['text' => 'Advokasi', 'link' => route('cooperative.advocacy')],
     ];
 @endphp
 
