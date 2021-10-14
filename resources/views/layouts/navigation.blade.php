@@ -152,19 +152,68 @@
     <!-- Responsive Navigation Menu -->
     <div :class="{'block': open, 'hidden': ! open}" class="hidden sm:hidden">
         <div class="pt-2 pb-3 space-y-1">
-            <x-responsive-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
+            {{-- <x-responsive-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
                 {{ __('Dashboard') }}
-            </x-responsive-nav-link>
+            </x-responsive-nav-link> --}}
+            <x-dropdown align="left" width="48">
+                <x-slot name="trigger">
+                    <x-responsive-nav-link class="flex items-center">
+                        <div>
+                            {{ __('Menu Publik') }}
+                        </div>
+                        <div class="ml-1">
+                            <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+                            </svg>
+                        </div>
+                    </x-responsive-nav-link>
+                </x-slot>
+                <x-slot name="content">
+                    @foreach ($menuPublic as $item)
+                        <x-dropdown-link :href="$item['link']">
+                            {{ __($item['text']) }}
+                        </x-dropdown-link>
+                    @endforeach
+                </x-slot>
+            </x-dropdown>
+            @if(auth_check())
+                <x-dropdown align="left" width="48">
+                    <x-slot name="trigger">
+                        <x-responsive-nav-link class="flex items-center">
+                            <div>
+                                Menu {{ current_guard() == 'web' ? 'Admin' : 'Koperasi' }}
+                            </div>
+                            <div class="ml-1">
+                                <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                </svg>
+                            </div>
+                        </x-responsive-nav-link>
+                    </x-slot>
+                    <x-slot name="content">
+                        @php
+                            $list = current_guard() == 'web' ? $adminMenu : $cooperativeMenu;
+                        @endphp
+                        @foreach ($list as $item)
+                            <x-dropdown-link :href="$item['link']">
+                                {{ __($item['text']) }}
+                            </x-dropdown-link>
+                        @endforeach
+                    </x-slot>
+                </x-dropdown>
+            @endif
         </div>
 
         <!-- Responsive Settings Options -->
         @auth
             <div class="pt-4 pb-1 border-t border-gray-200">
+                <x-responsive-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')" class="mb-4">
+                    {{ __('Dashboard') }}
+                </x-responsive-nav-link>
                 <div class="px-4">
                     <div class="font-medium text-base text-gray-800">{{ Auth::user()->name }}</div>
                     <div class="font-medium text-sm text-gray-500">{{ Auth::user()->email }}</div>
                 </div>
-
                 <div class="mt-3 space-y-1">
                     <!-- Authentication -->
                     <form method="POST" action="{{ route('logout') }}">
