@@ -8,11 +8,13 @@
         ['text' => 'Menu Registrasi', 'link' => route('admin.registration')],
         ['text' => 'Menu Pendirian Koperasi', 'link' => route('admin.cooperative.establishment')],
         ['text' => 'Menu Advokasi', 'link' => route('admin.cooperative.advocacy')],
+        ['text' => 'Menu Pendampingan', 'link' => route('admin.cooperative.accompaniment')],
     ];
 
     $cooperativeMenu = [
         ['text' => 'Update Formulir', 'link' => route('cooperative.form.edit')],
         ['text' => 'Advokasi', 'link' => route('cooperative.advocacy')],
+        ['text' => 'Pendampingan', 'link' => route('cooperative.accompaniment')],
     ];
 @endphp
 

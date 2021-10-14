@@ -10,10 +10,12 @@ use App\Http\Controllers\CooperativeEstablishmentController;
 use App\Http\Controllers\Admin\RegisterController as AdminRegisterController;
 use App\Http\Controllers\Admin\CooperativeEstablishmentController as AdminCooperativeEstablishmentController;
 use App\Http\Controllers\Admin\AdvocacyController as AdminAdvocacyController;
+use App\Http\Controllers\Admin\AccompanimentController as AdminAccompanimentController;
 
 //
 use App\Http\Controllers\Cooperative\FormController as CooperativeFormController;
 use App\Http\Controllers\Cooperative\AdvocacyController as CooperativeAdvocacyController;
+use App\Http\Controllers\Cooperative\AccompanimentController as CooperativeAccompanimentController;
 
 /*
 |--------------------------------------------------------------------------
@@ -69,6 +71,12 @@ Route::group([
     Route::get('/advokasi/{id}/action', [AdminAdvocacyController::class, 'action'])->name('cooperative.advocacy.action');
     Route::get('/advokasi/terkonfirmasi/{id}', [AdminAdvocacyController::class, 'confirm_show'])->name('cooperative.advocacy.confirm_show');
     Route::put('/advokasi/terkonfirmasi/{id}', [AdminAdvocacyController::class, 'confirm_update'])->name('cooperative.advocacy.confirm_update');
+
+    //
+    Route::get('/pendampingan', [AdminAccompanimentController::class, 'index'])->name('cooperative.accompaniment');
+    Route::get('/pendampingan/{id}/action', [AdminAccompanimentController::class, 'action'])->name('cooperative.accompaniment.action');
+    Route::get('/pendampingan/terkonfirmasi/{id}', [AdminAccompanimentController::class, 'confirm_show'])->name('cooperative.accompaniment.confirm_show');
+    Route::put('/pendampingan/terkonfirmasi/{id}', [AdminAccompanimentController::class, 'confirm_update'])->name('cooperative.accompaniment.confirm_update');
 });
 
 
@@ -86,4 +94,7 @@ Route::group([
     // advokasi
     Route::get('/advokasi', [CooperativeAdvocacyController::class, 'index'])->name('advocacy');
     Route::post('/advokasi', [CooperativeAdvocacyController::class, 'store'])->name('advocacy.store');
+    // advokasi
+    Route::get('/pendampingan', [CooperativeAccompanimentController::class, 'index'])->name('accompaniment');
+    Route::post('/pendampingan', [CooperativeAccompanimentController::class, 'store'])->name('accompaniment.store'); // Accompaniment
 });

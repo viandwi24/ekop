@@ -52,4 +52,9 @@ class Cooperative extends Authenticatable
     {
         return $this->hasMany(AdvocacyPersonalData::class);
     }
+
+    public function accompaniment()
+    {
+        return $this->hasMany(AccompanimentPersonalData::class);
+    }
 }
