@@ -2,6 +2,7 @@
     $menuPublic = [
         ['text' => 'Registrasi', 'link' => route('registration'), 'active' => request()->routeIs('registration')],
         ['text' => 'Pendirian Koperasi', 'link' => route('cooperative.establishment'), 'active' => request()->routeIs('cooperative.establishment')],
+        ['text' => 'Pendidikan Koperasi', 'link' => route('cooperative.education'), 'active' => request()->routeIs('cooperative.education')],
     ];
 
     $adminMenu = [
@@ -9,12 +10,15 @@
         ['text' => 'Menu Pendirian Koperasi', 'link' => route('admin.cooperative.establishment')],
         ['text' => 'Menu Advokasi', 'link' => route('admin.cooperative.advocacy')],
         ['text' => 'Menu Pendampingan', 'link' => route('admin.cooperative.accompaniment')],
+        ['text' => 'Menu Penkes', 'link' => route('admin.cooperative.penkes')],
+        ['text' => 'Menu Pendidikan Koperasi', 'link' => route('admin.cooperative.education')],
     ];
 
     $cooperativeMenu = [
         ['text' => 'Update Formulir', 'link' => route('cooperative.form.edit')],
         ['text' => 'Advokasi', 'link' => route('cooperative.advocacy')],
         ['text' => 'Pendampingan', 'link' => route('cooperative.accompaniment')],
+        ['text' => 'Penkes', 'link' => route('cooperative.penkes')],
     ];
 @endphp
 

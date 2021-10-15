@@ -11,11 +11,15 @@ use App\Http\Controllers\Admin\RegisterController as AdminRegisterController;
 use App\Http\Controllers\Admin\CooperativeEstablishmentController as AdminCooperativeEstablishmentController;
 use App\Http\Controllers\Admin\AdvocacyController as AdminAdvocacyController;
 use App\Http\Controllers\Admin\AccompanimentController as AdminAccompanimentController;
+use App\Http\Controllers\Admin\PenkesController as AdminPenkesController;
+use App\Http\Controllers\Admin\EducationController as AdminEducationController;
 
 //
 use App\Http\Controllers\Cooperative\FormController as CooperativeFormController;
 use App\Http\Controllers\Cooperative\AdvocacyController as CooperativeAdvocacyController;
 use App\Http\Controllers\Cooperative\AccompanimentController as CooperativeAccompanimentController;
+use App\Http\Controllers\Cooperative\PenkesController as CooperativePenkesController;
+use App\Http\Controllers\Cooperative\EducationController as CooperativeEducationController;
 
 /*
 |--------------------------------------------------------------------------
@@ -45,6 +49,9 @@ Route::post('/registrasi', [RegisterController::class, 'store'])->name('registra
 // Pendirian Koperasi - CooperativeEstablishment
 Route::get('/pendirian-koperasi', [CooperativeEstablishmentController::class, 'index'])->name('cooperative.establishment');
 Route::post('/pendirian-koperasi', [CooperativeEstablishmentController::class, 'store'])->name('cooperative.establishment.store');
+// PENDIDIKAN PERKOPERASIAN
+Route::get('/pendidikan-perkoperasian', [CooperativeEducationController::class, 'index'])->name('cooperative.education');
+Route::post('/pendidikan-perkoperasian', [CooperativeEducationController::class, 'store'])->name('cooperative.education.store');
 
 
 /**
@@ -77,6 +84,18 @@ Route::group([
     Route::get('/pendampingan/{id}/action', [AdminAccompanimentController::class, 'action'])->name('cooperative.accompaniment.action');
     Route::get('/pendampingan/terkonfirmasi/{id}', [AdminAccompanimentController::class, 'confirm_show'])->name('cooperative.accompaniment.confirm_show');
     Route::put('/pendampingan/terkonfirmasi/{id}', [AdminAccompanimentController::class, 'confirm_update'])->name('cooperative.accompaniment.confirm_update');
+
+    //
+    Route::get('/penkes', [AdminPenkesController::class, 'index'])->name('cooperative.penkes');
+    Route::get('/penkes/{id}/action', [AdminPenkesController::class, 'action'])->name('cooperative.penkes.action');
+    Route::get('/penkes/terkonfirmasi/{id}', [AdminPenkesController::class, 'confirm_show'])->name('cooperative.penkes.confirm_show');
+    Route::put('/penkes/terkonfirmasi/{id}', [AdminPenkesController::class, 'confirm_update'])->name('cooperative.penkes.confirm_update');
+
+    //
+    Route::get('/pendidikan', [AdminEducationController::class, 'index'])->name('cooperative.education');
+    Route::get('/pendidikan/{id}/action', [AdminEducationController::class, 'action'])->name('cooperative.education.action');
+    Route::get('/pendidikan/terkonfirmasi/{id}', [AdminEducationController::class, 'confirm_show'])->name('cooperative.education.confirm_show');
+    Route::put('/pendidikan/terkonfirmasi/{id}', [AdminEducationController::class, 'confirm_update'])->name('cooperative.education.confirm_update');
 });
 
 
@@ -96,5 +115,8 @@ Route::group([
     Route::post('/advokasi', [CooperativeAdvocacyController::class, 'store'])->name('advocacy.store');
     // advokasi
     Route::get('/pendampingan', [CooperativeAccompanimentController::class, 'index'])->name('accompaniment');
-    Route::post('/pendampingan', [CooperativeAccompanimentController::class, 'store'])->name('accompaniment.store'); // Accompaniment
+    Route::post('/pendampingan', [CooperativeAccompanimentController::class, 'store'])->name('accompaniment.store');
+    // penkes
+    Route::get('/penkes', [CooperativePenkesController::class, 'index'])->name('penkes');
+    Route::post('/penkes', [CooperativePenkesController::class, 'store'])->name('penkes.store');
 });
