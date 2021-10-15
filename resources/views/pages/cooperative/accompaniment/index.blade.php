@@ -19,7 +19,21 @@
                         </div>
                         <div class="mb-2">
                             <x-label for="problem" :value="__('Masalah')" />
-                            <x-input id="problem" class="block mt-1 w-full" type="text" name="problem" :value="old('problem')" required />
+                            <select name="problem" id="problem" class="w-full rounded-md shadow-sm border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                                <option value="">--Pilih Masalah--</option>
+                                @php
+                                    $problems = [
+                                        'KUK',
+                                        'KEGIATAN USAHA KOPERASI',
+                                        'LAPORAN KEUANGAN',
+                                        'RAB',
+                                        'RAT',
+                                    ];
+                                @endphp
+                                @foreach ($problems as $key => $val)
+                                    <option value="{{ $val }}">{{ $val }}</option>
+                                @endforeach
+                            </select>
                         </div>
                         <div class="mb-2">
                             <x-label for="reason" :value="__('Penyebab')" />
