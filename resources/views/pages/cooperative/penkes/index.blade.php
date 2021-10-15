@@ -52,6 +52,8 @@
                                 <th>No Telepon</th>
                                 <th>Nilai Kesehatan</th>
                                 <th>Pada</th>
+                                <th>Dikonfirmasi?</th>
+                                <th>Sertifikat</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -63,6 +65,20 @@
                                     <td>{{ $item->cooperative->phone_hp }}</td>
                                     <td>{{ $item->health_score }}</td>
                                     <td>{{ $item->created_at->format('d/m/Y') }}</td>
+                                    <td>
+                                        @if ($item->confirm_assistance)
+                                            Sudah
+                                        @else
+                                            -
+                                        @endif
+                                    </td>
+                                    <td>
+                                        @if ($item->confirm_assistance)
+                                            <a href="{{ route('penkes.download.certificate', ['id' => $item->id]) }}">Unduh</a>
+                                        @else
+                                            -
+                                        @endif
+                                    </td>
                                 </tr>
                             @endforeach
                         </tbody>
