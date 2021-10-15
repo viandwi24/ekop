@@ -57,13 +57,23 @@ Route::get('/penkes/{id}/download/certificate', function ($id) {
     // get penkes
     $penkes = PenkesPersonalData::findOrFail($id);
     // make image
-    $image = Image::make(storage_path('app/public/files/certificate.jpg'));
+    $image = Image::make(public_path('certificate.jpg'));
     // add text
+    if ($penkes->health_score > 3) {
+        $predicat = 'Tidak Sehat';
+    } else if ($penkes->health_score > 2) {
+        $predicat = 'Kurang Sehat';
+    } else if ($penkes->health_score > 1) {
+        $predicat = 'Cukup Sehat';
+    } else {
+        $predicat = 'Sehat';
+    }
     addText($image, $penkes->cooperative->name, 2400, 1330);
     addText($image, $penkes->cooperative->legal_entity_number, 2400, 1440);
     addText($image, $penkes->cooperative->legal_entity_date->format('d-m-Y'), 2400, 1550);
     addText($image, $penkes->cooperative->address, 2400, 1665);
     addText($image, $penkes->health_score, 2400, 1780);
+    addText($image, $predicat, 2400, 1890);
     // return
     return $image->response('jpg');
 })->name('penkes.download.certificate');
