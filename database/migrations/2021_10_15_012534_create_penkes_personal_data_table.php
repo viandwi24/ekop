@@ -17,6 +17,8 @@ class CreatePenkesPersonalDataTable extends Migration
             $table->id();
             $table->foreignId('cooperative_id')->constrained()->onDelete('cascade')->onUpdate('cascade');
             $table->integer('health_score')->default(0);
+            $table->string('file_path');
+            $table->string('file_name');
             $table->timestamps();
         });
     }

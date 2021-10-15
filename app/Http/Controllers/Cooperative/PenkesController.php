@@ -25,13 +25,24 @@ class PenkesController extends Controller
     {
         $request->validate([
             'health_score' => 'required',
+            'file' => 'required|file|mimes:xlx,xls,xlsx',
         ]);
 
         $cooperative = Cooperative::findOrFail(current_auth()->id);
 
+        $name = $request->file('file')->getClientOriginalName();
+        $path = $request->file('file')->store('public/files/penkes');
+        $data = array_merge(
+            $request->only('health_score'),
+            [
+                'file_path' => $path,
+                'file_name' => $name,
+            ]
+        );
+
         $store = null;
-        DB::transaction(function () use (&$store, $cooperative, $request) {
-            $store = $cooperative->penkes()->create($request->only('health_score'));
+        DB::transaction(function () use (&$store, $cooperative, $data) {
+            $store = $cooperative->penkes()->create($data);
         });
 
         return redirect()->back()->with('alert', [

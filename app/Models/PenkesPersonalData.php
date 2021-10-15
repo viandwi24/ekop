@@ -23,6 +23,8 @@ class PenkesPersonalData extends Model
      */
     protected $fillable = [
         'health_score',
+        'file_path',
+        'file_name',
     ];
 
     public function cooperative()

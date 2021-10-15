@@ -20,6 +20,7 @@ use App\Http\Controllers\Cooperative\AdvocacyController as CooperativeAdvocacyCo
 use App\Http\Controllers\Cooperative\AccompanimentController as CooperativeAccompanimentController;
 use App\Http\Controllers\Cooperative\PenkesController as CooperativePenkesController;
 use App\Http\Controllers\Cooperative\EducationController as CooperativeEducationController;
+use Illuminate\Support\Facades\Storage;
 
 /*
 |--------------------------------------------------------------------------
@@ -34,6 +35,11 @@ use App\Http\Controllers\Cooperative\EducationController as CooperativeEducation
 
 // HOME
 Route::get('/', function () { return view('welcome'); })->name('home');
+Route::get('/download', function () {
+    $path = request()->get('path', null);
+    if (!$path) return abort(404);
+    return Storage::download($path);
+})->name('download');
 
 // Authentication
 require __DIR__.'/auth.php';

@@ -28,6 +28,7 @@
                                             <th>Alamat</th>
                                             <th>No Telepon</th>
                                             <th>Nilai Kesehatan</th>
+                                            <th>File Bukti</th>
                                             <th>Status</th>
                                             <th width="10%">Action</th>
                                         </tr>
@@ -43,6 +44,11 @@
                                                 <td>{{ $item->cooperative->address }}</td>
                                                 <td>{{ $item->cooperative->phone_hp }}</td>
                                                 <td>{{ $item->health_score }}</td>
+                                                <td>
+                                                    <div class="my-2 text-xs underline hover:text-blue-500">
+                                                        <a href="{{ route('download', ['path' => $item->file_path]) }}">Unduh</a>
+                                                    </div>
+                                                </td>
                                                 <td>{{ ($confirmed) ? 'Terkonfirmasi' : '-' }}</td>
                                                 <td>
                                                     <x-button tag="a" size="sm" :href="route('admin.cooperative.penkes.action', [$item->id, 'action' => ($confirmed ? 'disconfirm' : 'confirm')])">
