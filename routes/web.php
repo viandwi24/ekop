@@ -74,6 +74,16 @@ Route::get('/penkes/{id}/download/certificate', function ($id) {
     addText($image, $penkes->cooperative->address, 2400, 1665);
     addText($image, $penkes->health_score, 2400, 1780);
     addText($image, $predicat, 2400, 1890);
+
+    $date = \Carbon\Carbon::parse($penkes->confirm_assistance->created_at)->translatedFormat('D, d - m - ');
+    $image->text($date, 4050, 2500, function($font) {
+        $font->file(public_path('fonts/Lusitana-Bold.ttf'));
+        // set font bold
+        $font->size(60);
+        $font->color('#000000');
+        $font->align('right');
+        $font->valign('center');
+    });
     // return
     return $image->response('jpg');
 })->name('penkes.download.certificate');
