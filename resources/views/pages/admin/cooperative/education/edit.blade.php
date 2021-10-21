@@ -42,7 +42,7 @@
                             KONFIRMASI PENDAMPINGAN
                         </div>
                         <div class="mb-2">
-                            <x-label for="solution" :value="__('Masalah')" />
+                            <x-label for="solution" :value="__('Solusi')" />
                             <x-input id="solution" class="block mt-1 w-full" type="text" name="solution" :value="$confirm_assistance->solution" required />
                         </div>
                         <div class="mb-2">
