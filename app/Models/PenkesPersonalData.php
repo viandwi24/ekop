@@ -27,6 +27,15 @@ class PenkesPersonalData extends Model
         'file_name',
     ];
 
+    /**
+     * The attributes that should be cast.
+     *
+     * @var array
+     */
+    protected $casts = [
+        'health_score' => 'float',
+    ];
+
     public function cooperative()
     {
         return $this->belongsTo(Cooperative::class);

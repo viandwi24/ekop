@@ -22,7 +22,7 @@
                         </div>
                         <div class="mb-2">
                             <x-label for="health_score" :value="__('Nilai Kesehatan')" />
-                            <x-input id="health_score" class="block mt-1 w-full" type="number" min="0" name="health_score" :value="old('health_score', 0)" required />
+                            <x-input pattern="^\d*(\.\d{0,2})?$" step="any" id="health_score" class="block mt-1 w-full" type="number" min="0" name="health_score" :value="old('health_score', 0)" required />
                         </div>
                         <div class="mb-2">
                             <x-label for="file" :value="__('Upload File Bukti (KERTAS KERJA PEMERIKSAAN KESEHATAN KSP/USP KOPERASI)')" />

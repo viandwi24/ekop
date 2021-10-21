@@ -20,7 +20,7 @@
                         </div>
                         <div class="mb-2">
                             <x-label for="health_score" :value="__('Nilai Kesehatan')" />
-                            <x-input id="health_score" class="block mt-1 w-full" type="number" name="health_score" :value="$confirm_assistance->personal_data->health_score" required />
+                            <x-input pattern="^\d*(\.\d{0,2})?$" step="any" id="health_score" class="block mt-1 w-full" type="number" name="health_score" :value="$confirm_assistance->personal_data->health_score" required />
                         </div>
                         <div class="mb-2 text-xs underline hover:text-blue-500">
                             <a href="{{ route('download', ['path' => $confirm_assistance->personal_data->file_path]) }}">Unduh File Bukti Kertas Kerja Pemeriksaan Kesehatan</a>
