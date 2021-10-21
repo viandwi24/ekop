@@ -88,14 +88,14 @@
                                                 <td>{{ $item->personal_data->cooperative->name }}</td>
                                                 <td>{{ $item->personal_data->health_score }}</td>
                                                 <td>
-                                                    @if ($item->personal_data->health_score > 3)
-                                                    <span class="text-red-500">Tidak Sehat</span>
-                                                    @elseif ($item->personal_data->health_score > 2)
-                                                        <span class="text-yellow-500">Kurang Sehat</span>
-                                                    @elseif ($item->personal_data->health_score > 1)
-                                                        <span class="text-green-400">Cukup Sehat</span>
+                                                    @if ($item->personal_data->health_score < 51)
+                                                        <span class="text-red-500">DALAM PENGAWASAN KHUSUS</span>
+                                                    @elseif ($item->personal_data->health_score < 66)
+                                                        <span class="text-yellow-500">DALAM PENGAWASAN</span>
+                                                    @elseif ($item->personal_data->health_score < 80)
+                                                        <span class="text-green-400">CUKUP SEHAT</span>
                                                     @else
-                                                        <span class="text-green-600">Sehat</span>
+                                                        <span class="text-green-600">SEHAT</span>
                                                     @endif
                                                 </td>
                                                 <td>{{ $item->solution }}</td>

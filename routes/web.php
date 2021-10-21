@@ -59,14 +59,14 @@ Route::get('/penkes/{id}/download/certificate', function ($id) {
     // make image
     $image = Image::make(public_path('certificate.jpg'));
     // add text
-    if ($penkes->health_score > 3) {
-        $predicat = 'Tidak Sehat';
-    } else if ($penkes->health_score > 2) {
-        $predicat = 'Kurang Sehat';
-    } else if ($penkes->health_score > 1) {
-        $predicat = 'Cukup Sehat';
+    if ($penkes->health_score < 51) {
+        $predicat = 'DALAM PENGAWASAN KHUSUS';
+    } else if ($penkes->health_score < 66) {
+        $predicat = 'DALAM PENGAWASAN';
+    } else if ($penkes->health_score < 80) {
+        $predicat = 'CUKUP SEHAT';
     } else {
-        $predicat = 'Sehat';
+        $predicat = 'SEHAT';
     }
     addText($image, $penkes->cooperative->name, 2400, 1330);
     addText($image, $penkes->cooperative->legal_entity_number, 2400, 1440);
