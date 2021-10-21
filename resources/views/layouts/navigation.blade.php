@@ -231,5 +231,12 @@
                 </div>
             </div>
         @endauth
+        @if(!auth_check())
+            <div class="pt-4 pb-4 border-t border-gray-200">
+                <x-responsive-nav-link :href="route('login')" :active="request()->routeIs('login')">
+                {{ __('Login') }}
+                </x-responsive-nav-link>
+            </div>
+        @endif
     </div>
 </nav>
