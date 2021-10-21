@@ -29,6 +29,7 @@
                                             <th>No Telepon</th>
                                             <th>Nilai Kesehatan</th>
                                             <th>File Bukti</th>
+                                            <th>Sertifikat</th>
                                             <th>Status</th>
                                             <th width="10%">Action</th>
                                         </tr>
@@ -48,6 +49,13 @@
                                                     <div class="my-2 text-xs underline hover:text-blue-500">
                                                         <a href="{{ route('download', ['path' => $item->file_path]) }}">Unduh</a>
                                                     </div>
+                                                </td>
+                                                <td>
+                                                    @if ($confirmed)
+                                                        <a href="{{ route('penkes.download.certificate', ['id' => $item->id]) }}">Unduh</a>
+                                                    @else
+                                                        -
+                                                    @endif
                                                 </td>
                                                 <td>{{ ($confirmed) ? 'Terkonfirmasi' : '-' }}</td>
                                                 <td>
