@@ -69,6 +69,8 @@
                                             <td>
                                                 @if ($item->client_name)
                                                     {{ $item->client_name }}
+                                                @elseif ($item->personal_data->cooperative->name)
+                                                    {{ $item->personal_data->cooperative->name }}
                                                 @else
                                                     {{ $item->personal_data->name }}
                                                 @endif
