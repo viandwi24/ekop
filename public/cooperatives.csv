@@ -1,0 +1,952 @@
+NO,KOPERASI,DESA,KECAMATAN,AKTIF,JENIS KOPERASI,KELOMPOK KOPERASI
+1,Koperasi Syariah Mutiara Persaudaraan,Sidorejo ,Jatirejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+2,Koperasi Wanita Tawangrejo Makmur,Ds. Tawangrejo ,Jatirejo,TRUE,Konsumen,Kop. Wanita
+3,Koperasi Wanita Sekarsari,Ds. Rejosari ,Jatirejo,TRUE,Konsumen,Kop. Wanita
+4,Koperasi Pertanian Tani Hutan Rakyat Sumber Makmur,Jembul,Jatirejo,TRUE,Konsumen,Kop. Pertanian
+5,Koperasi Pertanian KMDH Sumber Rejeki,Ds. Jembul,Jatirejo,TRUE,Produsen,Kop. Pertanian
+6,Koperasi Wanita Jembul Sejahtera,Ds. Jembul ,Jatirejo,TRUE,Konsumen,Kop. Wanita
+7,Koperasi Wanita Primavera,Desa Manting,Jatirejo,TRUE,Konsumen,Kop. Wanita
+8,Koperasi Pertanian KMDH Kembang Dilem,Ds. Manting,Jatirejo,TRUE,Produsen,Kop. Pertanian
+9,Koperasi Wanita Pelangi Sumber Jati,Desa Sumberjati,Jatirejo,TRUE,Konsumen,Kop. Wanita
+10,Koperasi Wanita Sumberjati Indah,Ds. Sumberjati ,Jatirejo,TRUE,Konsumen,Kop. Wanita
+11,KSPPS Jannatul Mawa 45,Lebakjabung,Jatirejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+12,Koperasi Wanita Sumber Rejeki,Lebakjabung,Jatirejo,TRUE,Konsumen,Kop. Wanita
+13,Koperasi Pertanian KMDH Mitra Jaya,Ds. Lebak Jabung,Jatirejo,TRUE,Produsen,Kop. Pertanian
+14,Koperasi Wanita Sumber Makmur,Desa Bleberan,Jatirejo,TRUE,Konsumen,Kop. Wanita
+15,Koperasi Wanita Sumberagung Jaya,Sumberagung,Jatirejo,TRUE,Konsumen,Kop. Wanita
+16,Koperasi Wanita Flamboyan,Baureno,Jatirejo,TRUE,Konsumen,Kop. Wanita
+17,Koperasi Karyawan Maju Bersama,Jatirejo,Jatirejo,TRUE,Konsumen,Kopkar
+18,Koperasi Pondok Pesantren Robithotul Ulum,Ds. Tumapel,Jatirejo,FALSE,Konsumen,Koppontren
+19,Koperasi Wanita Mandiri Lestari,Desa Mojogeneng,Jatirejo,TRUE,Konsumen,Kop. Wanita
+20,Koperasi Wanita Serba Usaha,Ds. Jatirejo ,Jatirejo,TRUE,Konsumen,Kop. Wanita
+21,Koperasi Pondok Pesantren Bir Aly,Jatirejo,Jatirejo,TRUE,Konsumen,Koppontren
+22,Koperasi Pertanian Laju,Jatirejo ,Jatirejo,FALSE,Produsen,Kop. Pertanian
+23,Koperasi Wanita Gading Makmur,Ds. Gading ,Jatirejo,TRUE,Konsumen,Kop. Wanita
+24,Koperasi Wanita Suka Makmur,Kumitir,Jatirejo,TRUE,Konsumen,Kop. Wanita
+25,Koperasi Perkebunan Sari Rosan,Ds. Sumengko,Jatirejo,TRUE,Produsen,Kop. Perkebunan
+26,Koperasi Pegawai Negeri SAE,Ds. Sumengko,Jatirejo,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+27,Koperasi Wanita Sahabat Nuris,Desa Sumengko,Jatirejo,TRUE,Konsumen,Kop. Wanita
+28,Koperasi Sumber Lancar Jaya,"Desa Gebangsari, Kecamatan Jatirejo",Jatirejo,TRUE,Konsumen,Kop. Serba Usaha
+29,Koperasi Pondok Pesantren Barokah,Dsn. Kowang Ds. Gebangsari,Jatirejo,TRUE,Konsumen,Koppontren
+30,Koperasi Wanita Pertiwi Gebangsari,Gebangsari ,Jatirejo,TRUE,Konsumen,Kop. Wanita
+31,KJKS Adi Dharma Mandiri,Gebangsari ,Jatirejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+32,Koperasi Bina Mitra,Ds. Dinoyo,Jatirejo,FALSE,Konsumen,Kop. Lainnya
+33,Koperasi Pasar Dinoyo,Ds. Dinoyo,Jatirejo,FALSE,Pemasaran,Kop. Pasar
+34,Koperasi Unit Desa Dinoyo,Ds. Dinoyo,Jatirejo,TRUE,Produsen,KUD
+35,Koperasi Wanita Mandiri Sejati,Desa Dinoyo,Jatirejo,TRUE,Konsumen,Kop. Wanita
+36,Koperasi Mandiri Sejati,Dinoyo ,Jatirejo,TRUE,Konsumen,Kop. Wanita
+37,KSPPS Jannatul Mawa 44,Padangasri,Jatirejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+38,Koperasi Pondok Pesantren Al Huda,Ds. Padangsari,Jatirejo,FALSE,Konsumen,Koppontren
+39,Koperasi Wanita Sari Asri,Desa Padangasri,Jatirejo,TRUE,Konsumen,Kop. Wanita
+40,Koperasi Pondok Pesantren Bidayatul Hidayah,Ds. Mojogeneng,Jatirejo,FALSE,Konsumen,Koppontren
+41,Koperasi Pondok Pesantren Al Maba,Ds. Mojogeneng,Jatirejo,TRUE,Konsumen,Koppontren
+42,KOPERASI PRODUSEN PONDOK PESANTREN PPBH ASRAMA DARUSSALAM ARRUGHBAH,Mojogeneng,Jatirejo,TRUE,Produsen,Kop. Lainnya
+43,Koperasi Wanita Ngarjo Jaya,Desa Dukuhngarjo,Jatirejo,TRUE,Konsumen,Kop. Wanita
+44,Koperasi Wanita Indah Abadi,Ds. Karang Jeruk ,Jatirejo,TRUE,Konsumen,Kop. Wanita
+45,Koperasi Karya Mandiri,Pohjejer ,Gondang,TRUE,Konsumen,Kop. Lainnya
+46,Koperasi Pegawai Negeri Raharjo,Pugeran,Gondang,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+47,KSPPS Jannatul Mawa 24,Pugeran,Gondang,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+48,Koperasi Unit Desa Tani Bahagia,Pugeran,Gondang,TRUE,Pemasaran,KUD
+49,Koperasi Pertanian Al Muawanah,Ds. Pugeran,Gondang,FALSE,Produsen,Kop. Pertanian
+50,Kopti Rukun Sejahtera,Ds. Pugeran,Gondang,FALSE,Produsen,Kopti
+51,Koperasi Simpan Pinjam Gotong Royong,Pugeran,Gondang,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+52,Koperasi Wanita Berdikari,Ds. Pugeran,Gondang,TRUE,Konsumen,Kop. Wanita
+53,Koperasi Wanita Gumeng Damai,Desa Gumeng,Gondang,TRUE,Konsumen,Kop. Wanita
+54,Koperasi Pertanian KMDH SeloKendit,Begagan Lima,Gondang,TRUE,Produsen,Kop. Pertanian
+55,Koperasi Wanita Cinta Lestari,Desa Begaganlimo,Gondang,TRUE,Konsumen,Kop. Wanita
+56,Koperasi Wanita Kalikatir Lestari,Desa Kalikatir,Gondang,TRUE,Konsumen,Kop. Wanita
+57,Koperasi Wanita Dilem Sejahtera,Ds. Dilem ,Gondang,TRUE,Konsumen,Kop. Wanita
+58,Koperasi Pertanian Sumber Makmur,Ds.Ngembat,Gondang,TRUE,Produsen,Kop. Pertanian
+59,Koperasi Wanita Tali Asih,Ds. Ngembat ,Gondang,TRUE,Konsumen,Kop. Wanita
+60,Koperasi Simpan Pinjam Surya Mojopahit,Jatidukuh,Gondang,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+61,Koperasi Wanita Dukuh Melati,Jatidukuh ,Gondang,TRUE,Konsumen,Kop. Wanita
+62,Koperasi Jaya Makmur Bahagia,Ds. Bening,Gondang,TRUE,Konsumen,Kop. Serba Usaha
+63,Koperasi Wanita Bening Anggrek, Bening ,Gondang,TRUE,Konsumen,Kop. Wanita
+64,Koperasi Pertanian Tirto Panguripan,Desa Karangkuten,Gondang,TRUE,Produsen,Kop. Pertanian
+65,Koperasi Serba Usaha Tirto Panguripan,Ds. Karangkuten,Gondang,TRUE,Konsumen,Kop. Serba Usaha
+66,Koperasi Wanita Maharani,Ds. Karangkuten ,Gondang,TRUE,Konsumen,Kop. Wanita
+67,Koperasi Wanita Barokah,Desa Tawar,Gondang,TRUE,Konsumen,Kop. Wanita
+68,Koperasi Wanita Gleges - UP2K,Ds. Tawar - Gondang,Gondang,FALSE,Konsumen,Kop. Wanita
+69,Koperasi Jasa Keuangan Syariah Berkah Abadi,Pohjejer,Gondang,TRUE,Produsen,Kop. Lainnya
+70,Koperasi Tentrem MPU 1 Mojokerto Pacet,Pohjejer,Gondang,TRUE,Konsumen,Kop. Serba Usaha
+71,Koperasi Wanita Mekar Abadi,Desa Pohjejer,Gondang,TRUE,Konsumen,Kop. Wanita
+72,Koperasi Pertanian Mardi Tani Utomo,Ds. Wonoploso,Gondang,TRUE,Produsen,Kop. Pertanian
+73,Koperasi Wanita Ploso Indah,Desa Wono Ploso,Gondang,TRUE,Konsumen,Kop. Wanita
+74,Koperasi Simpan Pinjam Mitra Raya,Pohjejer,Gondang,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+75,Koperasi Serba Usaha Citra Insani,Gondang,Gondang,FALSE,Konsumen,Kop. Serba Usaha
+76,Koperasi Wanita Lestari - UP2K,Gondang,Gondang,FALSE,Konsumen,Kop. Wanita
+77,Koperasi Abdi Ummat,Ds.Gondang,Gondang,FALSE,Konsumen,Kop. Lainnya
+78,Koperasi Wanita Kartini Gondang,Desa Gondang,Gondang,TRUE,Konsumen,Kop. Wanita
+79,Koperasi Wanita Kartini,Desa Kebontunggul,Gondang,TRUE,Konsumen,Kop. Wanita
+80,Koperasi Wanita Kartini 3 - UP2K,Kebontunggul,Gondang,FALSE,Konsumen,Kop. Wanita
+81,KSPPS Jannatul Mawa 22,Kemasantani,Gondang,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+82,Koperasi Wanita Kemasantani Jaya,Kemasanatani ,Gondang,TRUE,Konsumen,Kop. Wanita
+83,Koperasi Wanita Padi Indah,Desa Padi,Gondang,TRUE,Konsumen,Kop. Wanita
+84,Koperasi Wanita Rosselli,Ds.Bakalan,Gondang,TRUE,Konsumen,Kop. Wanita
+85,Koperasi Wanita Centong Makmur,Ds.Centong,Gondang,TRUE,Konsumen,Kop. Wanita
+86,Koperasi Masyarakat Persatuan,Ds. Sajen,Pacet,FALSE,Konsumen,Kop. Serba Usaha
+87,Koperasi Serba Usaha Sakya Danamulya,Ds. Ketapan Rame,Pacet,TRUE,Konsumen,Kop. Lainnya
+88,Koperasi Pertanian Sido Makmur,Ds. Mlaten,Pacet,FALSE,Produsen,Kop. Pertanian
+89,Koperasi Pertanian Thukul Lestari,-,Pacet,TRUE,Produsen,Kop. Pertanian
+90,Koperasi Wanita Mekar Sari,Ds. Sajen,Pacet,FALSE,Konsumen,Kop. Wanita
+91,Koperasi Pemuda Remas Taqwa,Ds. Pacet,Pacet,TRUE,Konsumen,Kop. Pemuda
+92,Koperasi Pegawai Negeri Brantas,-,Pacet,FALSE,Konsumen,Kop. Pegawai Negeri (KPRI)
+93,Koperasi Wanita As Sakinah,Desa Warugunung,Pacet,TRUE,Konsumen,Kop. Wanita
+94,Koperasi Wanita Arto Moro,Ds. Candi ,Pacet,TRUE,Konsumen,Kop. Wanita
+95,Koperasi Agro Herbal Pertiwi Mojokerto,Pandanarum ,Pacet,TRUE,Konsumen,Kop. Lainnya
+96,Koperasi Anugerah Karya Bersama,Mojosari,Pacet,TRUE,Konsumen,Kop. Lainnya
+97,KOPERASI SIMPAN PINJAM DINAR MANDIRI SEJAHTERA,Desa Petak,Pacet,TRUE,Simpan Pinjam,Kop. Lainnya
+98,Koperasi Wanita Bina Sejahtera,Desa Kemiri,Pacet,TRUE,Konsumen,Kop. Wanita
+99,Koperasi Pertanian Tunas Tani Makmur,Ds. Wiyu,Pacet,FALSE,Produsen,Kop. Pertanian
+100,Koperasi Wanita Wahyu Lestari,Wiyu,Pacet,TRUE,Konsumen,Kop. Wanita
+101,Koperasi Pondok Pesantren Al Hasanah,Ds. Kesiman Tengah,Pacet,FALSE,Konsumen,Koppontren
+102,Koperasi Wanita Mekar Sari Indah,Kesimantengah ,Pacet,TRUE,Konsumen,Kop. Wanita
+103,Koperasi Pondok Pesantren Darun Najah,Ds. Sajen,Pacet,FALSE,Konsumen,Koppontren
+104,Koperasi Serba Usaha Barokah Artha Sejahtera,Ds. Pacet,Pacet,TRUE,Konsumen,Kop. Serba Usaha
+105,Koperasi Wanita Sajian Jaya,Desa Sajen,Pacet,TRUE,Konsumen,Kop. Wanita
+106,Koperasi Karyawan Mega Gotong Royong I,-,Pacet,TRUE,Konsumen,Kopkar
+107,Koperasi Karyawan Sativa Sanggraloka,Ds. Pacet,Pacet,FALSE,Konsumen,Kopkar
+108,KSPPS Qonaah Aisyiyah,Pacet,Pacet,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+109,Koperasi Dhuafa,Ds. Pacet,Pacet,TRUE,Konsumen,Kop. Lainnya
+110,Koperasi Agribisnis Dana Mulya,Pacet,Pacet,TRUE,Produsen,KUD
+111,Koperasi Pondok Pesantren Rijan,Pacet,Pacet,TRUE,Konsumen,Koppontren
+112,Koperasi Pondok Pesantren Saniyah,Ds. Pacet,Pacet,FALSE,Konsumen,Koppontren
+113,Koperasi Pertanian Idaman,Ds. Pacet,Pacet,FALSE,Produsen,Kop. Pertanian
+114,Koperasi Wanita Srikandi 2,Ds. Pacet,Pacet,FALSE,Konsumen,Kop. Wanita
+115,Koperasi Unit Desa Tani Mulya,Pacet,Pacet,TRUE,Produsen,KUD
+116,Koperasi Pondok Pesantren Hayam Wuruk,-,Pacet,FALSE,Konsumen,Koppontren
+117,Koperasi Wanita Sahabat Pacet Lestari,Desa Pacet,Pacet,TRUE,Konsumen,Kop. Wanita
+118,Koperasi Pandu Wisata,Ds. Pacet,Pacet,FALSE,Konsumen,Kop. Lainnya
+119,Koperasi Pertanian KMDH Tegal Klopo,Pacet Selatan ,Pacet,FALSE,Produsen,Kop. Pertanian
+120,Koperasi Langgeng Sentosa,Sajen,Pacet,TRUE,Konsumen,Kop. Serba Usaha
+121,KOPERASI JASA MUSHLICH YUSUF SULAIMAN,Pacet,Pacet,TRUE,Jasa,Kop. Lainnya
+122,Koperasi Wanita Sumber Arta,"Padusan Rt. 02, Rw. 01",Pacet,TRUE,Konsumen,Kop. Wanita
+123,Koperasi Pertanian Tahura Arjuno,-,Pacet,TRUE,Produsen,Kop. Pertanian
+124,Koperasi Wanita Welirang Indah,Ds. Padusan,Pacet,FALSE,Konsumen,Kop. Wanita
+125,Koperasi Pertanian KMDH Pesona Alam Lestari,Padusan ,Pacet,TRUE,Produsen,Kop. Pertanian
+126,KOPERASI JASA LMDH PESONA ALAM LESTARI,Padusan,Pacet,TRUE,Jasa,Kop. Lainnya
+127,Koperasi Wanita Cepokolimo Berseri,Ds. Cepokolimo ,Pacet,TRUE,Konsumen,Kop. Wanita
+128,Koperasi Pertanian Subur Makmur,Ds. Claket,Pacet,FALSE,Produsen,Kop. Pertanian
+129,Koperasi Wanita Cembor Jaya,Ds. Cembor ,Pacet,TRUE,Konsumen,Kop. Wanita
+130,Koperasi Wanita Sari Abadi,Nogosari,Pacet,TRUE,Konsumen,Kop. Wanita
+131,Koperasi Wanita Nawang Wulan,Ds. Kembang Belor,Pacet,FALSE,Konsumen,Kop. Wanita
+132,Koperasi Wanita Kembang Abadi,Kembangbelor,Pacet,TRUE,Konsumen,Kop. Wanita
+133,Koperasi Peternakan Manunggal Mojopahit,Kembangbelor  ,Pacet,TRUE,Produsen,Kop. Peternakan
+134,KOPERASI JASA MAJA SURYA NUSANTARA,Kembangbelor,Pacet,TRUE,Jasa,Kop. Lainnya
+135,Koperasi Wanita Mojo Jaya,Desa Mojokembang,Pacet,TRUE,Konsumen,Kop. Wanita
+136,Koperasi Wanita Anugerah,Bendunganjati,Pacet,TRUE,Konsumen,Kop. Wanita
+137,KSPPS Jannatul Mawa,Petak,Pacet,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+138,Koperasi Serba Usaha Sarianun Jaya,Dsn. Dukuh Ds. Petak,Pacet,TRUE,Konsumen,Kop. Serba Usaha
+139,Koperasi Wanita Petak Lestari,Ds. Petak ,Pacet,TRUE,Konsumen,Kop. Wanita
+140,Koperasi Pegawai Negeri Langgeng,Desa Warugunung,Pacet,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+141,Koperasi Pertanian Al Barokah,Warugunung,Pacet,TRUE,Produsen,Kop. Pertanian
+142,Koperasi Pegawai Negeri Usaha Bhakti,Ds. Tanjung Kenongo,Pacet,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+143,Koperasi Wanita Artha Anugerah,Desa Tanjungkenongo,Pacet,TRUE,Konsumen,Kop. Wanita
+144,KOPERASI SIMPAN PINJAM DAN PEMBIAYAAN SYARIAH AMANATUL UMMAH INDONESIA,Tanjungkenongo,Pacet,TRUE,Simpan Pinjam,Kop. Lainnya
+145,Koperasi Wanita Anugerah Indah,Desa Sumberkembar ,Pacet,TRUE,Konsumen,Kop. Wanita
+146,Koperasi Wanita Anugrah Makmur,Desa Kuripansari,Pacet,TRUE,Konsumen,Kop. Wanita
+147,KSPPS Harapan Faedah Sejahtera,Pandanarum,Pacet,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+148,Koperasi Unit Desa Harapan Jaya,Pandanarum,Pacet,TRUE,Produsen,KUD
+149,Koperasi Saudagara Baitul Ummah,Pandanarum,Pacet,TRUE,Konsumen,Kop. Lainnya
+150,Koperasi Pegawai Negeri Flamboyan,Pandanarum,Pacet,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+151,Koperasi Wanita Masitoh,Pandanarum ,Pacet,TRUE,Konsumen,Kop. Wanita
+152,Koperasi Pertanian Brenjok Lestari,Ds. Pesanggrahan,Trawas,FALSE,Produsen,Kop. Pertanian
+153,KOPERASI KONSUMEN GUYUB BERSATU SEJAHTERA,Kelurahan,Trawas,TRUE,Konsumen,Kop. Lainnya
+154,KSPPS Jannatul Mawa 30,Ketapanrame,Trawas,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+155,Koperasi Pertanian Raharjo,Ds. Ketapan Rame,Trawas,TRUE,Produsen,Kop. Pertanian
+156,Koperasi Wanita Anggrek 3,Ds. Ketapan Rame,Trawas,TRUE,Konsumen,Kop. Wanita
+157,Koperasi Pertanian KMDH Margo Mulyo,Ds. Ketapanrame,Trawas,FALSE,Produsen,Kop. Pertanian
+158,Koperasi Jasa Mugi Makmur,Ketapan Rame,Trawas,TRUE,Jasa,Kop. Lainnya
+159,KOPERASI JASA KUB TAMAN GHANJARAN,Ketapanrame,Trawas,TRUE,Jasa,Kop. Lainnya
+160,KSPPS Jannatul Mawa 29,Trawas,Trawas,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+161,Koperasi Raden Wijaya,Ketapanreme,Trawas,TRUE,Konsumen,Kop. Simpan Pinjam
+162,Koperasi Bhakti Mandiri,-,Trawas,FALSE,Konsumen,Kop. Lainnya
+163,Koperasi Pertanian Karya Sejahtera,-,Trawas,FALSE,Produsen,Kop. Pertanian
+164,Koperasi Wanita Bukit Trawas,Desa Trawas,Trawas,TRUE,Konsumen,Kop. Wanita
+165,Koperasi Pegawai Negeri Surya Kencana Mandiri,Jolotundo,Trawas,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+166,KSPPS Jannatul Mawa 28,Selotapak,Trawas,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+167,Koperasi Wanita Tapak Jati Mulya,Desa Selo Tapak,Trawas,TRUE,Konsumen,Kop. Wanita
+168,Koperasi Pegawai Negeri Manunggal,Ds.Tamiajeng,Trawas,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+169,KSPPS Jannatul Mawa 33,Tamiajeng,Trawas,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+170,Koperasi Wanita Melati Indah,Desa Tamiajeng,Trawas,TRUE,Konsumen,Kop. Wanita
+171,KSPPS Jannatul Mawa 26,Kesiman,Trawas,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+172,Koperasi Unit Desa Serba Usaha,Kesiman,Trawas,TRUE,Produsen,KUD
+173,Koperasi Wanita Ranu Baya Putri,Ds. Kesiman ,Trawas,TRUE,Konsumen,Kop. Wanita
+174,Koperasi Pondok Pesantren An Nur Fatmah,Desa Belik,Trawas,TRUE,Konsumen,Koppontren
+175,Koperasi Wanita Sri Rejeki,Desa Belik,Trawas,TRUE,Konsumen,Kop. Wanita
+176,KSPPS Jannatul Mawa 27,Duyung,Trawas,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+177,Koperasi Wanita Putri Duyung,Desa Duyung,Trawas,TRUE,Konsumen,Kop. Wanita
+178,Koperasi Agro Margo Mulya T,Ds. Penanggungan,Trawas,FALSE,Konsumen,Kop. Lainnya
+179,Koperasi Wanita Tunas Harapan,Desa Penanggungan,Trawas,TRUE,Konsumen,Kop. Wanita
+180,Koperasi Wanita Ngudi Rejo,Ds. Kedung Udi,Trawas,TRUE,Konsumen,Kop. Wanita
+181,Koperasi Wanita Tunggul Wulung,Desa Sukosari,Trawas,TRUE,Konsumen,Kop. Wanita
+182,Koperasi Agro Langgeng Santoso,Ds. Jatijejer,Trawas,FALSE,Konsumen,Kop. Lainnya
+183,Koperasi Wanita Tanjung Sari,Ds. Jati Jejer,Trawas,FALSE,Konsumen,Kop. Wanita
+184,Koperasi Wanita Putri Jatijejer,Ds. Jatijejer ,Trawas,TRUE,Konsumen,Kop. Wanita
+185,Koperasi Wanita Setia Kawan,Ds. Sugeng ,Trawas,TRUE,Konsumen,Kop. Wanita
+186,Koperasi Industri Kerajinan Rakyat Sumber Makmur,Ds. Seloliman,Trawas,TRUE,Produsen,Kopinkra
+187,Koperasi Wanita Sumber Makmur,Ketapan Rame,Trawas,TRUE,Konsumen,Kop. Wanita
+188,Koperasi Wanita Seloliman Makmur,Ds. Seloliman ,Trawas,TRUE,Konsumen,Kop. Wanita
+189,Koperasi Karyawan Mandiri,Ds. Candi,Ngoro,FALSE,Konsumen,Kopkar
+190,Koperasi Bakara,Ds. Manduro,Ngoro,FALSE,Konsumen,Kop. Lainnya
+191,Koperasi Wanita Dahlia 3,Ds.Jedong,Ngoro,TRUE,Konsumen,Kop. Wanita
+192,Koperasi Wanita Sri Rejeki,Ds. Kabangon,Ngoro,TRUE,Konsumen,Kop. Wanita
+193,Koperasi Serba Usaha Perdula,Banyuarang,Ngoro,FALSE,Konsumen,Kop. Serba Usaha
+194,Koperasi Wanita Manduro Makmur,Manduro Manggun Gajah,Ngoro,TRUE,Konsumen,Kop. Wanita
+195,KOPERASI KONSUMEN PONDOK PESANTREN BAITUL MANSHURIN,Jasem,Ngoro,TRUE,Konsumen,Kop. Lainnya
+196,Koperasi Wanita Gotong Royong,Desa Srigading,Ngoro,TRUE,Konsumen,Kop. Wanita
+197,Koperasi Asy - Syafi iyah,Kesemen,Ngoro,TRUE,Pemasaran,Koppontren
+198,Koperasi Wanita Kesemen Asri,Desa Kesemen,Ngoro,TRUE,Konsumen,Kop. Wanita
+199,Koperasi Wanita Kutho Makmur,Ds. Kutogirang,Ngoro,TRUE,Konsumen,Kop. Wanita
+200,KSPPS Jannatul Mawa 5,Lolawang,Ngoro,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+201,Koperasi Wanita Dewi Shinta,Desa Lolawang,Ngoro,TRUE,Konsumen,Kop. Wanita
+202,Koperasi Wanita Jedong Lestari,Desa Wotanmasjedong,Ngoro,TRUE,Konsumen,Kop. Wanita
+203,Koperasi Serba Usaha Ibnu Alwan,Ds. Watonmas Jedong,Ngoro,FALSE,Konsumen,Kop. Serba Usaha
+204,Koperasi Wanita Makmur Jaya,Tanjangrono,Ngoro,TRUE,Konsumen,Kop. Wanita
+205,Koperasi Wanita Melati Putih 2,Ds. Kunjoro Wesi,Ngoro,FALSE,Konsumen,Kop. Wanita
+206,Koperasi Wanita Dewi Pakunjaran,Ds. Kunjorowesi ,Ngoro,TRUE,Konsumen,Kop. Wanita
+207,Koperasi Wanita Teratai 3,Ds. Manduro,Ngoro,TRUE,Konsumen,Kop. Wanita
+208,Koperasi Karyawan Harapan Sejahtera,Ds. Wonosari,Ngoro,TRUE,Konsumen,Kopkar
+209,Koperasi Karyawan Karya Sejahtera,Ds. Wonosari,Ngoro,TRUE,Konsumen,Kopkar
+210,Koperasi Karyawan Mitra Sejahtera,Ds. Wonosari,Ngoro,FALSE,Konsumen,Kopkar
+211,Koperasi Wanita Gayatri,Wonosari ,Ngoro,TRUE,Konsumen,Kop. Wanita
+212,Koperasi Tirta Karya,Ds. Wonosari  ,Ngoro,TRUE,Konsumen,Kop. Lainnya
+213,KSPPS BMT AL-Izzah Harapan Umat Jawa Timur,Desa Ngoro,Ngoro,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+214,Koperasi Karyawan Bina Usaha,Ds. Ngoro,Ngoro,FALSE,Konsumen,Kopkar
+215,KSPPS Jannatul Mawa 1,Ngoro,Ngoro,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+216,Koperasi Karyawan Nusa Mulya,Ds. Ngoro,Ngoro,TRUE,Konsumen,Kopkar
+217,Koperasi Karyawan Profil Sejahtera,Lolawang,Ngoro,TRUE,Konsumen,Kopkar
+218,Koperasi Wanita Nusa Indah,Ds. Ngoro,Ngoro,FALSE,Konsumen,Kop. Wanita
+219,Koperasi Wanita Ngoro Sejahtera,Ds. Ngoro ,Ngoro,TRUE,Konsumen,Kop. Wanita
+220,Koperasi Karyawan Golden Hand,Ds. Sedati,Ngoro,FALSE,Konsumen,Kopkar
+221,Koperasi Bhakti Remaja,Ds. Sedati,Ngoro,FALSE,Konsumen,Kop. Lainnya
+222,Koperasi Sumber Rejeki,Ds. Sedati,Ngoro,FALSE,Konsumen,Kop. Lainnya
+223,Koperasi Unit Desa Subur,Ds. Ngoro,Ngoro,TRUE,Produsen,KUD
+224,Koperasi Amanatul Ummah,Sedati,Ngoro,TRUE,Konsumen,Kop. Simpan Pinjam
+225,Koperasi Wanita Sekar Sedati,Sedati ,Ngoro,TRUE,Konsumen,Kop. Wanita
+226,Koperasi Wanita Srikandi Purwojati,Desa Purwojati,Ngoro,TRUE,Konsumen,Kop. Wanita
+227,KOPERASI KONSUMEN KARYAWAN WILMAR PADI INDONESIA,,Ngoro,TRUE,Konsumen,Kopkar
+228,Koperasi Karyawan Surya Makmur,Ds. Jasem,Ngoro,FALSE,Konsumen,Kopkar
+229,Koperasi Pegawai Negeri Usaha Bersama,Ds.Jasem,Ngoro,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+230,Koperasi Wanita Mutiara Putih,Desa Jasem,Ngoro,TRUE,Konsumen,Kop. Wanita
+231,Koperasi Wanita Jaya Makmur,Desa Sukoanyar,Ngoro,FALSE,Konsumen,Kop. Wanita
+232,Koperasi Industri Kerajinan Rakyat Mekar Sari,Ds. Bandar Asri,Ngoro,FALSE,Produsen,Kopinkra
+233,Koperasi Wanita Kenikir,Ds. Bandar Asri,Ngoro,TRUE,Konsumen,Kop. Wanita
+234,Koperasi Wanita Mekar Jaya,Desa Bandarasri,Ngoro,TRUE,Konsumen,Kop. Wanita
+235,Koperasi Wanita Kembangsri,Ds. Kembangsri,Ngoro,TRUE,Konsumen,Kop. Wanita
+236,KSPPS An - Nahal,Kembansri,Ngoro,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+237,Koperasi Wanita Putri Kembangsri,Ds. Kembangsri,Ngoro,TRUE,Konsumen,Kop. Wanita
+238,Koperasi Wanita Srikandi Candiharjo,Desa Candiharjo,Ngoro,FALSE,Konsumen,Kop. Wanita
+239,KSPPS Jannatul Mawa 2,Watesnegoro,Ngoro,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+240,Koperasi Wanita Moro Seneng,Desa Watesnegoro,Ngoro,TRUE,Konsumen,Kop. Wanita
+241,Koperasi Wanita Sejati,Ds. Tambakrejo ,Ngoro,TRUE,Konsumen,Kop. Wanita
+242,Koperasi Pegawai Republik Indonesia Gotong Royong,Tunggal pager,Pungging,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+243,KSPPS Jannatul Mawa 81,Tunggalpager,Pungging,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+244,Koperasi Tunggal Jaya,Ds. Tunggal Pager,Pungging,FALSE,Konsumen,Kop. Lainnya
+245,Koperasi Pondok Pesantren Al Maunah,Ds. Tunggal Pager,Pungging,FALSE,Konsumen,Koppontren
+246,Koperasi Pondok Pesantren Nurul Hidayah,Ds. Tunggal Pager,Pungging,FALSE,Konsumen,Koppontren
+247,Koperasi Wanita Bougenvile,Desa Tunggalpager,Pungging,TRUE,Konsumen,Kop. Wanita
+248,Koperasi Simpan Pinjam Harta Swadiri,Ds. Tunggal Pager,Pungging,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+249,Koperasi Simpan Pinjam Putra Surya Mandiri,Tunggal pager,Pungging,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+250,Koperasi Simpan Pinjam Sejahtera Bersama, Tunggalpager,Pungging,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+251,Koperasi Simpan Pinjam Barokah Artha Sentosa Jawa Timur,Dusun Ketok,Pungging,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+252,Koperasi Simpan Pinjam Mitra Artha Perdana,Tunggalpager ,Pungging,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+253,Koperasi Wanita Putri Ayu,Kedungmungal,Pungging,TRUE,Konsumen,Kop. Wanita
+254,Koperasi Wanita Tunas Harapan,Ds.Kedung M,Pungging,FALSE,Konsumen,Kop. Wanita
+255,Koperasi Wanita Kembangsono,Ds. Lebaksono ,Pungging,TRUE,Konsumen,Kop. Wanita
+256,Koperasi Simpan Pinjam Siah Sejahtera Bersama,Lebaksono,Pungging,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+257,Koperasi Serba Usaha Indo Bontek,Ds. Jabon Tegal,Pungging,TRUE,Konsumen,Kop. Serba Usaha
+258,Koperasi Wanita Jabon Tegal I,Ds. Jabon Tegal ,Pungging,TRUE,Konsumen,Kop. Wanita
+259,KSPPS Jannatul Mawa 82,Kalipuro,Pungging,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+260,Koperasi Wanita Kaliayu,Desa Kalipuro,Pungging,TRUE,Konsumen,Kop. Wanita
+261,Koperasi Wanita Randuharjo I,Desa Randuharjo,Pungging,TRUE,Konsumen,Kop. Wanita
+262,Koperasi Wanita Rejo Sejahtera,Mojorejo ,Pungging,TRUE,Konsumen,Kop. Wanita
+263,Koperasi Wanita Kenongo Putih,Ds. Watu-,Pungging,FALSE,Konsumen,Kop. Wanita
+264,Koperasi Wanita Putri Kenanga,Ds. Watukenongo ,Pungging,TRUE,Konsumen,Kop. Wanita
+265,Koperasi Karyawan Bina Utama,Ds. Jati Lengkong,Pungging,FALSE,Konsumen,Kopkar
+266,KSPPS Jannatul Mawa 84,Jatilangkung,Pungging,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+267,Koperasi Wanita Sejati,Ds. Jati Klungkung,Pungging,FALSE,Konsumen,Kop. Wanita
+268,Koperasi Wanita Cendrawasih,Ds. Jatilangkung ,Pungging,TRUE,Konsumen,Kop. Wanita
+269,Koperasi Wanita Tempuran Jaya,Desa Tempuran,Pungging,TRUE,Konsumen,Kop. Wanita
+270,Koperasi Wanita Purworejo,Desa Purworejo,Pungging,TRUE,Konsumen,Kop. Wanita
+271,Koperai Wanita Srikandi,Banjartanggul,Pungging,TRUE,Konsumen,Kop. Wanita
+272,Koperasi Wanita Putri Curahmojo,Desa Curahmojo,Pungging,TRUE,Konsumen,Kop. Wanita
+273,Koperasi Wanita Mekar Sari,Ds. Banjar Tanggul,Pungging,TRUE,Konsumen,Kop. Wanita
+274,Koperasi Wanita Usaha Bersama,Sekargadung,Pungging,TRUE,Konsumen,Kop. Wanita
+275,Koperasi Serba Usaha Ar Rahman, Sekargadung ,Pungging,TRUE,Konsumen,Kop. Serba Usaha
+276,Koperasi Unit Desa Pungging,Pungging,Pungging,FALSE,Produsen,KUD
+277,Koperasi Sinar Mas Mandiri,Ds. Pungging,Pungging,FALSE,Konsumen,Kop. Lainnya
+278,Koperasi Serba Usaha Hidayah,-,Pungging,TRUE,Konsumen,Kop. Serba Usaha
+279,Koperasi Industri Kerajinan Rakyat Sejahtera Abadi,-,Pungging,FALSE,Produsen,Kopinkra
+280,Koperasi Wanita Pungging Lestari,Desa Pungging,Pungging,TRUE,Konsumen,Kop. Wanita
+281,Koperasi Mahatidana,,Pungging,TRUE,Konsumen,Kop. Lainnya
+282,Koperasi Pondok Pesantren Miftahul Ulum,Ds. Kembang Ringgit,Pungging,FALSE,Konsumen,Koppontren
+283,KOPERASI WANITA SAHABAT,Kembangringgit,Pungging,TRUE,Konsumen,Kop. Wanita
+284,Koperasi Tunas Harapan,Ds. Balongmasin,Pungging,FALSE,Konsumen,Kop. Lainnya
+285,Koperasi Wanita Melati 4,Ds. Balong Masin,Pungging,TRUE,Konsumen,Kop. Wanita
+286,Koperasi Wanita Sekar Wangi,Balongmasin,Pungging,TRUE,Konsumen,Kop. Wanita
+287,Koperasi Simpan Pinjam Yuma,Bangun,Pungging,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+288,Koperasi Karyawan Mulya Sejahtera,Ds. Mbangun,Pungging,TRUE,Konsumen,Kopkar
+289,Koperasi Karyawan Sejahtera Kurnia Anggun,Ds. Mbangun,Pungging,TRUE,Konsumen,Kopkar
+290,Koperasi Wanita Gading Putih,Ds. Bangun ,Pungging,TRUE,Konsumen,Kop. Wanita
+291,Koperasi Wanita Ngrame Pertiwi,Desa Ngrame,Pungging,TRUE,Konsumen,Kop. Wanita
+292,Koperasi Karyawan Seruti,Ngrame,Pungging,TRUE,Konsumen,Kopkar
+293,KSPPS Jannatul Mawa 85,Ngrame,Pungging,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+294,Koperasi Wanita Sri Rejeki,Ds. Ngrame,Pungging,TRUE,Konsumen,Kop. Wanita
+295,Koperasi Bintang Semesta Majapahit,,Kutorejo,TRUE,Produsen,Kop. Lainnya
+296,Koperasi Simpan Pinjam Mitra Artha Graha Jawa Timur,,Kutorejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+297,Koperasi Wanita Payungrejo Lestari,Ds. Payungrejo ,Kutorejo,FALSE,Konsumen,Kop. Wanita
+298,KSPPS Jannatul Mawa 16,Simbaringin,Kutorejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+299,Koperasi Serba Usaha Ikhtiar,Ds. Simbaringin,Kutorejo,FALSE,Konsumen,Kop. Serba Usaha
+300,Koperasi Wanita Firdaus,Ds.  Simbaringin ,Kutorejo,TRUE,Konsumen,Kop. Wanita
+301,Koperasi Karyawan Mega Bintang Indonesia,Ds. Sampang Agung,Kutorejo,TRUE,Konsumen,Kopkar
+302,KOPERASI SIMPAN PINJAM HARTA SENTOSA,Sampangagung,Kutorejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+303,Koperasi Wanita Bunda Bhakti,Desa Sampangagung,Kutorejo,TRUE,Konsumen,Kop. Wanita
+304,Koperasi Wanita Dahlia 2,Ds. Jiyu,Kutorejo,TRUE,Konsumen,Kop. Wanita
+305,Koperasi Damarwulan Jawa Timur,Pesanggrahan,Kutorejo,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+306,Koperasi Pondok Pesantren Rachmatika,Ds. Juwinong,Kutorejo,TRUE,Konsumen,Koppontren
+307,Koperasi Pondok Pesantren Tarbiyatul Akhlaq,Ds. Juwinong,Kutorejo,TRUE,Konsumen,Koppontren
+308,Koperasi Wanita Tunas Melati,Desa Pesanggrahan,Kutorejo,TRUE,Konsumen,Kop. Wanita
+309,Koperasi Serba Usaha Sumber Makmur,Ds. Pesanggrahan,Kutorejo,FALSE,Konsumen,Kop. Serba Usaha
+310,Koperasi Wanita Melati II UP2K PKK,Pesanggrahan,Kutorejo,TRUE,Konsumen,Kop. Wanita
+311,Koperasi Pegawai Negeri Serba Usaha,Windurejo,Kutorejo,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+312,Koperasi Wanita Usaha Bunda,Ds. Windurejo ,Kutorejo,TRUE,Konsumen,Kop. Wanita
+313,Koperasi Wanita Kertosari Bangkit,Ds. Kertosari ,Kutorejo,TRUE,Konsumen,Kop. Wanita
+314,Koperasi Wanita Tunas Arum,Ds. Kepuharum ,Kutorejo,TRUE,Konsumen,Kop. Wanita
+315,Koperasi Wanita Harapan Ibu,Ds. Gedangan ,Kutorejo,TRUE,Konsumen,Kop. Wanita
+316,KOPERASI KONSUMEN ANUGERAH ARTHA SEJAHTERA,Gedangan,Kutorejo,TRUE,Konsumen,Kop. Lainnya
+317,Koperasi Wanita Mitra usaha,Ds. Kutorejo ,Kutorejo,TRUE,Konsumen,Kop. Wanita
+318,Koperasi Simpan Pinjam Ilmi SMAN I Kutorejo,Kutorejo,Kutorejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+319,KSPPS Jannatul Mawa 20,Karangdiyeng,Kutorejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+320,Koperasi Wanita Karya,Desa Karang Dieng,Kutorejo,TRUE,Konsumen,Kop. Wanita
+321,Koperasi Wanita Amanah,Sawo ,Kutorejo,TRUE,Konsumen,Kop. Wanita
+322,KSPPS Jannatul Mawa 19,Wonodadi,Kutorejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+323,Koperasi Wanita As Syifa,Desa Wonodadi,Kutorejo,TRUE,Konsumen,Kop. Wanita
+324,KSPPS Jannatul Mawa 18,Singowangi,Kutorejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+325,Koperasi Wanita Putri Mandiri,Singowangi,Kutorejo,TRUE,Konsumen,Kop. Wanita
+326,Koperasi Simpan Pinjam Pembiayaan Syariah Ar-Rahmah Arta Syariah,Ds.Kepuh pandak,Kutorejo,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+327,Koperasi Wanita Mutiara,Ds. Kepuhpandak ,Kutorejo,TRUE,Konsumen,Kop. Wanita
+328,Koperasi Pertanian Sumber Rejeki Kutorejo,Ds.Karangasem,Kutorejo,FALSE,Produsen,Kop. Pertanian
+329,Koperasi Wanita Mekar sari Jaya,Desa Karangasem,Kutorejo,TRUE,Konsumen,Kop. Wanita
+330,Koperasi Wanita Kaligoro Rejo,Ds. Kaligoro,Kutorejo,TRUE,Konsumen,Kop. Wanita
+331,Koperasi Unit Desa Budi Raharjo,Kutorejo,Kutorejo,TRUE,Produsen,KUD
+332,Koperasi Pondok Pesantren Latansa,Ds. Tumiri,Mojosari,FALSE,Konsumen,Koppontren
+333,Koperasi Pondok Pesantren Sabilul Muttaqin,-,Mojosari,FALSE,Konsumen,Koppontren
+334,Koperasi Serba Usaha Cintra Insani,Ds. Awang - awang,Mojosari,FALSE,Konsumen,Kop. Serba Usaha
+335,Koperasi Serba Usaha Mekar Abadi,Ds. Sawahan,Mojosari,TRUE,Konsumen,Kop. Serba Usaha
+336,Balai Usaha Mandiri Terpadu BMT AT,Modopuro,Mojosari,TRUE,Konsumen,Kop. Lainnya
+337,Koperasi Wanita Bhakti Mandiri,Ds. Sawahan,Mojosari,TRUE,Konsumen,Kop. Wanita
+338,Koperasi Bima Amanta Mambaul Ulum,,Mojosari,FALSE,Produsen,Kop. Lainnya
+339,Koperasi Avi Jaya Berkah Bersaudara,,Mojosari,FALSE,Konsumen,Kop. Lainnya
+340,Koperasi Wanita Sumbertanggul Aman Jaya,Desa Sumbertanggul,Mojosari,TRUE,Konsumen,Kop. Wanita
+341,Koperasi Simpan Pinjam Artha Sejati Jaya,Belahan Tengah,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+342,Koperasi Wanita Sahabat Barokah,"Belahantengah Rt.01,Rw.01",Mojosari,TRUE,Konsumen,Kop. Wanita
+343,Kop Surya Amanah Mandiri Jatim, Awang-Awang,Mojosari,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+344,Koperasi Simpan Pinjam Delta Pratama Mojosari,Awang-Awang,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+345,Koperasi Pondok Pesantren Mambaul Ulum,Awang - Awang,Mojosari,TRUE,Pemasaran,Koppontren
+346,Koperasi Wanita Awang-awang Mandiri,Awang-Awang,Mojosari,TRUE,Konsumen,Kop. Wanita
+347,Koperasi Serba Usaha Adi Makmur Sentosa,Mojosari,Mojosari,TRUE,Konsumen,Kop. Serba Usaha
+348,KOPERASI KONSUMEN SYARIAH MELATI PADI BERSINAR,Awang-awang,Mojosari,TRUE,Konsumen,Kop. Lainnya
+349,Koperasi Simpan Pinjam Arta Anugrah Jaya,Ds.Seduri,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+350,Koperasi Lyn Mojosari Gempol Porong Setia Kawan,Seduri,Mojosari,FALSE,Konsumen,Kop. Angkutan Darat
+351,Koperasi Simpan Pinjam Mitra Sejahtera,Seduri,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+352,Koperasi Wanita Widuri,Desa Seduri,Mojosari,TRUE,Konsumen,Kop. Wanita
+353,KOPERASI KONSUMEN ARMINA PERKASA MOJOSARI,Seduri,Mojosari,TRUE,Konsumen,Kop. Lainnya
+354,Koperasi Wanita Mojosulur Maju Jaya,Mojosulur,Mojosari,TRUE,Konsumen,Kop. Wanita
+355,Koperasi Wanita Randubango Maju,Randubango,Mojosari,TRUE,Konsumen,Kop. Wanita
+356,Koperasi Kusuma Niaga,Ds. Randu Bango,Mojosari,TRUE,Konsumen,Kop. Lainnya
+357,Koperasi Simpan Pinjam Pelancar Usaha Abadi Sentosa PUAS,Randu Bango,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+358,Koperasi Wanita Jotangan Mandiri,Ds. Jotangan,Mojosari,FALSE,Konsumen,Kop. Wanita
+359,Koperasi Amanah Pertiwi,Jotangan,Mojosari,TRUE,Konsumen,Kop. Lainnya
+360,Koperasi Pegawai Negeri Sari Makmur,Ds.Kebondalem,Mojosari,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+361,Primkoppol Resort,Menanggal,Mojosari,TRUE,Konsumen,Kop. Kepolisian
+362,Koperasi Wanita Menanggal Jaya,Ds. Menanggal ,Mojosari,TRUE,Konsumen,Kop. Wanita
+363,KBPR Sendang Harta Sejahtera,Desa Pekukuhan,Mojosari,TRUE,Simpan Pinjam,K.B.P.R
+364,Koperasi Pertanian Bina Tani Mandiri,Ds. Pekukuhan,Mojosari,FALSE,Produsen,Kop. Pertanian
+365,Koperasi Simpan Pinjam Setia Bhakti,Pekukuhan,Mojosari,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+366,Koperasi Wanita Mekar Sari Jaya,Desa Pekukuhan,Mojosari,TRUE,Konsumen,Kop. Wanita
+367,KSPPS Jannatul Mawa 83,Lebaksono,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+368,Koperasi Perternakan Ternak Itik Sejahtera,Ds.Madopuro,Mojosari,FALSE,Produsen,Kop. Peternakan
+369,Koperasi Serba Usaha BMT At Taqwa,Ds. Madopuro,Mojosari,FALSE,Konsumen,Kop. Serba Usaha
+370,Koperasi Wanita Modopuro Mandiri Sejahtera,Ds. Modopuro ,Mojosari,FALSE,Konsumen,Kop. Wanita
+371,KSPPS Jannatul Mawa 10,Kebondalem,Mojosari,FALSE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+372,Koperasi Wanita Kebondalem Sejahtera,Kebondalem,Mojosari,TRUE,Konsumen,Kop. Wanita
+373,Koperasi Wanita Kedung Gempol Indah,Ds. Kedung Gempol ,Mojosari,FALSE,Konsumen,Kop. Wanita
+374,Koperasi Wanita Kartini 4,Ds. Nambangan,Mojosari,FALSE,Konsumen,Kop. Wanita
+375,Koperasi Wanita Ngimbangan Jaya Makmur,Ds. Ngimbangan ,Mojosari,TRUE,Konsumen,Kop. Wanita
+376,Koperasi Wanita Lancar,Ds. Leminggir ,Mojosari,FALSE,Konsumen,Kop. Wanita
+377,Koperasi Wanita Kusuma,Wonokusumo,Mojosari,TRUE,Konsumen,Kop. Wanita
+378,Koperasi Tirtorejo,Wonokusumo,Mojosari,TRUE,Konsumen,Kop. Simpan Pinjam
+379,Koperasi Simpan Pinjam Estu Utomo Mojosari,Ds. Wonokusumo,Mojosari,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+380,Koperasi Wanita Srikandi Sarirejo,Sarirejo gang III,Mojosari,TRUE,Konsumen,Kop. Wanita
+381,Koperasi Simpan Pinjam Artha Prima Kencana,Kauman,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+382,Koperasi Karyawan Tirta Rimba,Mojosari,Mojosari,TRUE,Konsumen,Kopkar
+383,Koperasi Pegawai Negeri KGM,Ds. Kauman,Mojosari,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+384,Koperasi Simpan Pinjam Artha Niaga,Kauman,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+385,Koperasi Wanita Putri Kauman,Kauman,Mojosari,TRUE,Konsumen,Kop. Wanita
+386,Koperasi Karyawan Dana Graha,-,Mojosari,FALSE,Konsumen,Kopkar
+387,Koperasi Karyawan Ramayana Sejahtera,-,Mojosari,TRUE,Konsumen,Kopkar
+388,Koperasi Distribusi Otomotif Rejeki Jaya Makmur,-,Mojosari,FALSE,Konsumen,Kop. Lainnya
+389,Koperasi Hidayatul Mall,-,Mojosari,FALSE,Konsumen,Kop. Lainnya
+390,Koperasi Masyarakat Mitra,-,Mojosari,FALSE,Konsumen,Kop. Serba Usaha
+391,Koperasi Serba Usaha Syariah BMT An Nur,Wonokusumo,Mojosari,TRUE,Konsumen,Kop. Serba Usaha
+392,Primkopad Dharma Putra Mayangkara,-,Mojosari,TRUE,Konsumen,Kop. Angkatan Darat
+393,Koperasi Pasar Amal Bhakti,-,Mojosari,FALSE,Pemasaran,Kop. Pasar
+394,Koperasi Pondok Pesantren Choiriyah Hasyim,-,Mojosari,FALSE,Konsumen,Koppontren
+395,Koperasi Pondok Pesantren Roja,-,Mojosari,FALSE,Konsumen,Koppontren
+396,Koperasi Wredatama Ngesti Santoso,-,Mojosari,TRUE,Konsumen,Kop. Wredatama
+397,Koperasi Pegawai Negeri Kusuma Husada,Ds. Mojosari,Mojosari,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+398,Koperasi Pegawai Negeri Sejahtera Lestari,-,Mojosari,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+399,Koperasi Simpan Pinjam Artha Surya Abadi,Wonokusumo,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+400,Koperasi Simpan Pinjam Mitra Utama Sejahtera,Sarirejo,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+401,Koperasi Pasar Pasar Raya Pertiwi,Ds. Mojosari,Mojosari,FALSE,Pemasaran,Kop. Pasar
+402,Koperasi Serba Usaha Daya Guna Mandiri,-,Mojosari,FALSE,Konsumen,Kop. Serba Usaha
+403,Koperasi Serba Usaha Jaya Wijaya,-,Mojosari,FALSE,Konsumen,Kop. Serba Usaha
+404,Koperasi Serba Usaha Syariah Citra Madani,-,Mojosari,FALSE,Konsumen,Kop. Serba Usaha
+405,Koperasi Serba Usaha Podo Makmur,Mojosari,Mojosari,TRUE,Konsumen,Kop. Serba Usaha
+406,Koperasi Unit Desa Setia Budi,Ds. Mojosari,Mojosari,FALSE,Produsen,KUD
+407,Koperasi Simpan Pinjam Artha Jaya Sejahtera,Sawahan,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+408,Koperasi Simpan Pinjam Sumber Artha Niaga,Randubango,Mojosari,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+409,Koperasi Pondok Pesantren Al Kamal,Kel. Mojosari IV / 57,Mojosari,FALSE,Konsumen,Koppontren
+410,Koperasi BMT An Nur,-,Mojosari,TRUE,Konsumen,Kop. Lainnya
+411,Koperasi Wanita Mitra Jaya Mojosari,Mojosari,Mojosari,TRUE,Konsumen,Kop. Wanita
+412,KOPERASI KONSUMEN PONDOK PESANTREN KASABA EL HA,Sawahan,Mojosari,TRUE,Konsumen,Kop. Lainnya
+413,Koperasi Wanita Suka Maju,Ds. Gayam,Bangsal,FALSE,Konsumen,Kop. Wanita
+414,Koperasi Serba Usaha Syariah Mitra Dikari,Ds. Tawangsari 313,Bangsal,FALSE,Konsumen,Kop. Serba Usaha
+415,Koperasi Serba Usaha Sumber Sejahtera,-,Bangsal,FALSE,Konsumen,Kop. Serba Usaha
+416,Koperasi Serba Usaha Syariah Dinar Amanah Syariah,-,Bangsal,FALSE,Konsumen,Kop. Serba Usaha
+417,Koperasi Wanita Artho Joyo,Mejoyo,Bangsal,TRUE,Konsumen,Kop. Wanita
+418,Koperasi Pegawai Negeri Mapan Jaya,Sumber tebu,Bangsal,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+419,Koperasi Jasa Adhi Jaya Narotama,Desa Pacing,Bangsal,TRUE,Jasa,Kop. Serba Usaha
+420,KSPPS Jannnatul Mawa 72,Desa Pacing ,Bangsal,TRUE,Produsen,Kop. Lainnya
+421,Koperasi Pondok Pesantren As Sakinah,-,Bangsal,FALSE,Konsumen,Koppontren
+422,Koperasi Wanita Sahabat Qolby,Desa Pacing,Bangsal,TRUE,Konsumen,Kop. Wanita
+423,Koperasi Wanita Putri Sumberwono,Desa Sumberwono,Bangsal,TRUE,Konsumen,Kop. Wanita
+424,Koperasi Karyawan Prima Sejahtera,Sumberwono,Bangsal,TRUE,Konsumen,Kopkar
+425,Koperasi Wanita Anggrek 1,Ds. Kadung Uneng,Bangsal,TRUE,Konsumen,Kop. Wanita
+426,Koperasi Wanita Kedung Rejeki,Kedunguneng,Bangsal,TRUE,Konsumen,Kop. Wanita
+427,Koperasi Wanita Kejujuran,Kutoporong,Bangsal,TRUE,Konsumen,Kop. Wanita
+428,Koperasi Pegawai Negeri Sejahtera,Ngastemi,Bangsal,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+429,Koperasi Serba Usaha Syariah An Nuriyah,-,Bangsal,TRUE,Konsumen,Kop. Serba Usaha
+430,Koperasi Wanita Jaya Abadi,Desa Ngastemi,Bangsal,TRUE,Konsumen,Kop. Wanita
+431,Koperasi Wanita Sekar Mulyo,Sidomulyo,Bangsal,TRUE,Konsumen,Kop. Wanita
+432,Koperasi Wanita Peterongan Makmur,Ds. Peterongan ,Bangsal,TRUE,Konsumen,Kop. Wanita
+433,Primer Koperasi Polisi SPN,Ds. Bangsal,Bangsal,TRUE,Konsumen,Kop. Kepolisian
+434,Koperasi Estu Margo,Ds. Bangsal,Bangsal,FALSE,Konsumen,Kop. Sekunder
+435,Koperasi Pertanian Minna Jaya,Ds. Bangsal,Bangsal,FALSE,Produsen,Kop. Pertanian
+436,Koperasi Pegawai Negeri Citra Mandiri,-,Bangsal,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+437,Koperasi Pegawai Negeri Giat,Bangsal,Bangsal,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+438,Koperasi Karyawan Prima Karya Sejahtera,-,Bangsal,TRUE,Konsumen,Kopkar
+439,Koperasi Wanita Permata,Desa Bangsal,Bangsal,TRUE,Konsumen,Kop. Wanita
+440,Koperasi Serba Usaha Aura Sejahtera,Bangsal,Bangsal,TRUE,Konsumen,Kop. Serba Usaha
+441,Koperasi Wanita Sumbertebu Jaya,Ds. Sumbertebu ,Bangsal,TRUE,Konsumen,Kop. Wanita
+442,KSPPS Jannatul Mawa 73,Sidomulyo,Bangsal,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+443,Koperasi Serba Usaha Adiguna Perkasa,-,Bangsal,TRUE,Konsumen,Kop. Serba Usaha
+444,Koperasi Simpan Pinjam Sarana Menuju Sukses,Bangsal,Bangsal,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+445,Koperasi Wanita Putri Gayam,Ds. Gayam ,Bangsal,TRUE,Konsumen,Kop. Wanita
+446,Koperasi Wanita Putri Mojopahit,Tinggarbuntut,Bangsal,TRUE,Konsumen,Kop. Wanita
+447,Koperasi Serba Usaha Karya Mandiri,Pekuwon,Bangsal,TRUE,Konsumen,Kop. Serba Usaha
+448,Koperasi Serba Usaha Sumber Rejeki,Ds. Pekuwon,Bangsal,FALSE,Konsumen,Kop. Serba Usaha
+449,Koperasi Unit Desa Pekuwon,Ds. Pekuwon,Bangsal,FALSE,Produsen,KUD
+450,Koperasi Wanita Pekuwon Makmur,Ds. Pekuwon ,Bangsal,TRUE,Konsumen,Kop. Wanita
+451,Koperasi Pertanian Margo Makmur,Ds. Salen,Bangsal,FALSE,Produsen,Kop. Pertanian
+452,Koperasi Wanita Tepo Seliro,Desa Salen,Bangsal,TRUE,Konsumen,Kop. Wanita
+453,Koperasi Barokah,Ds. Ngrowo,Bangsal,FALSE,Konsumen,Kop. Lainnya
+454,Koperasi Perkebunan Rosan Sejahtera,Ds. Ngrowo,Bangsal,FALSE,Produsen,Kop. Perkebunan
+455,Koperasi Serba Usaha Eka Mandiri,Ngrowo,Bangsal,FALSE,Konsumen,Kop. Serba Usaha
+456,Koperasi Wanita Putri Jaya,Ds. Ngrowo ,Bangsal,TRUE,Konsumen,Kop. Wanita
+457,Koperasi Wanita Pulo Artha,Ds. Puloniti ,Bangsal,TRUE,Konsumen,Kop. Wanita
+458,Koperasi Industri Kerajinan Rakyat Bina Usaha,Ds. Mojo Tamping,Bangsal,FALSE,Produsen,Kopinkra
+459,Koperasi Wanita Mojotamping Indah,Desa Mojotamping,Bangsal,TRUE,Konsumen,Kop. Wanita
+460,Koperasi Pegawai Negeri Mandiri,-,Mojoanyar,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+461,Koperasi Peternakan Kambing Etawa Damarwulan,Desa Gebangmalang,Mojoanyar,TRUE,Produsen,Kop. Peternakan
+462,Koperasi Syariah Keluarga Muslim Mojokerto Bersatu,,Mojoanyar,TRUE,Konsumen,Kop. Lainnya
+463,Koperasi Yatra Kumara Indonesia,,Mojoanyar,TRUE,Konsumen,Kop. Lainnya
+464,Kop Agribisnis Citra Biji Sawi,,Mojoanyar,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+465,Koperasi Wanita Sadar Abadi,Sadartengah,Mojoanyar,TRUE,Konsumen,Kop. Wanita
+466,Koperasi Karyawan Rata,Ds. Lengkong,Mojoanyar,TRUE,Konsumen,Kopkar
+467,Koperasi Wanita Jati Arum,Lengkong,Mojoanyar,TRUE,Konsumen,Kop. Wanita
+468,Koperasi Marata Arum,Lengkong,Mojoanyar,FALSE,Konsumen,Kop. Lainnya
+469,Koperasi Pertanian Sejahtera,Ds. Kepuh Anyar,Mojoanyar,FALSE,Produsen,Kop. Pertanian
+470,Koperasi Wanita Puan Jaya,Desa Kepuhanyar,Mojoanyar,TRUE,Konsumen,Kop. Wanita
+471,KSPPS Jannatul Mawa 65,Gebangmalang,Mojoanyar,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+472,Koperasi Jamu Gendong Sumber Jaya,Ds.Gebang Malang,Mojoanyar,FALSE,Konsumen,Kop. Jamu Gendong
+473,Koperasi Wanita Usaha Mandiri,Desa Gebangmalang,Mojoanyar,TRUE,Konsumen,Kop. Wanita
+474,Koperasi Pegawai Negeri Makmur Bersama,Jabon,Mojoanyar,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+475,KSPPS Jannatul Mawa 64,Jabon,Mojoanyar,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+476,Koperasi Pegawai Negeri IBI Delima Putih,Jabon,Mojoanyar,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+477,Koperasi Pegawai Negeri Tentram,Desa Jabon,Mojoanyar,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+478,Koperasi Karyawan Seroja,Gayaman,Mojoanyar,TRUE,Konsumen,Kopkar
+479,Koperasi Pertanian Mojopahit,Ds.Jabon,Mojoanyar,FALSE,Produsen,Kop. Pertanian
+480,Koperasi Pegawai Negeri Bina Sehat,Jl. Raya Jabon,Mojoanyar,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+481,Koperasi Serba Usaha Artha Pelangi,Jabon,Mojoanyar,TRUE,Konsumen,Kop. Serba Usaha
+482,Koperasi Unit Desa Gotong Royong,Jabon,Mojoanyar,TRUE,Produsen,KUD
+483,Koperasi Wanita Melati Jabon,Jabon,Mojoanyar,TRUE,Konsumen,Kop. Wanita
+484,Puskowan Duta Mojopahit,Pacing,Mojoanyar,TRUE,Konsumen,Kop. Sekunder
+485,Koperasi Karyawan PT. Jamsostek (persero),Mojoanyar,Mojoanyar,TRUE,Konsumen,Kopkar
+486,Koperasi Serba Usaha Dana Mandiri,Jabon ,Mojoanyar,TRUE,Konsumen,Kop. Serba Usaha
+487,Koperasi Simpan Pinjam Mitra Perkasa,Gayaman,Mojoanyar,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+488,Koperasi Wanita Sahabat Abadi,"Ds.Gayaman,Kec.Mojoanyar",Mojoanyar,TRUE,Konsumen,Kop. Wanita
+489,Koperasi Serba Usaha Menara Luhur Syariah Jawa Timur,Desa Gayaman,Mojoanyar,TRUE,Konsumen,Kop. Serba Usaha
+490,Koperasi Karyawan Poltekes Mojopahit,Gayaman,Mojoanyar,TRUE,Konsumen,Kopkar
+491,Koperasi Jasa Keuangan Tunas Arta,Gayaman,Mojoanyar,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+492,KSPPS Jannatul Mawa 61,Gayaman,Mojoanyar,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+493,Koperasi Pertanian Mojo Baru,Mojoanyar,Mojoanyar,TRUE,Produsen,Kop. Pertanian
+494,Koperasi Pegawai Negeri Cassia Vera,Ds. Gayaman,Mojoanyar,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+495,Koperasi Pegawai Negeri Giat Usaha,Gayaman,Mojoanyar,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+496,Koperasi Serba Usaha Prospek Mandiri,-,Mojoanyar,TRUE,Konsumen,Kop. Serba Usaha
+497,Koperasi Serba Usaha Syariah Karya Mulia Sejahtera,Ds. Gayaman,Mojoanyar,TRUE,Konsumen,Kop. Serba Usaha
+498,Koperasi Serba Usaha Margo Sejahtera,Gayaman ,Mojoanyar,TRUE,Konsumen,Kop. Serba Usaha
+499,KSPPS Jannatul Mawa 63,Ngarjo,Mojoanyar,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+500,Koperasi Wanita Makmur,Ngarjo,Mojoanyar,TRUE,Konsumen,Kop. Wanita
+501,KSPPS Jannatul Mawa 62,Wunut,Mojoanyar,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+502,Koperasi Wanita Wunut Lestari,Ds. Wunut ,Mojoanyar,TRUE,Konsumen,Kop. Wanita
+503,Koperasi Wanita Srikandi,Kwedenkembar ,Mojoanyar,TRUE,Konsumen,Kop. Wanita
+504,Koperasi Wanita Nyaur Teratur,Desa Jumeneng,Mojoanyar,FALSE,Konsumen,Kop. Wanita
+505,Koperasi Wanita Lentera,Kwatu,Mojoanyar,TRUE,Konsumen,Kop. Wanita
+506,Koperasi Bina Sejahterah Sentosa,,Dlanggu,TRUE,Simpan Pinjam,Kop. Lainnya
+507,Koperasi Wanita Sri Rejeki Jaya,Desa Punggul,Dlanggu,TRUE,Konsumen,Kop. Wanita
+508,Koperasi Simpan Pinjam Artha Gemilang,Punggul,Dlanggu,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+509,Koperasi Wanita Kenanga Indah,"Desa kalen, Kec. Dlanggu",Dlanggu,TRUE,Konsumen,Kop. Wanita
+510,Koperasi Wanita Kenongo Sari Indah,Ds. Kalen,Dlanggu,FALSE,Konsumen,Kop. Wanita
+511,KSPPS Majelis Taklim Aisyah Al - Rahmah,Kedunggede,Dlanggu,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+512,Koperasi Wanita Mitra Kedunggede,Kedunggede ,Dlanggu,TRUE,Konsumen,Kop. Wanita
+513,Koperasi Wanita Srikandi Jaya,Desa Mojokarang,Dlanggu,TRUE,Konsumen,Kop. Wanita
+514,Koperasi Sejahtera (Hippa),Ds. Segunung,Dlanggu,FALSE,Konsumen,Kop. Lainnya
+515,Koperasi Wanita Mekar Sari,Desa Segunung,Dlanggu,TRUE,Konsumen,Kop. Wanita
+516,Koperasi Wanita Kartika,Desa Talok,Dlanggu,TRUE,Konsumen,Kop. Wanita
+517,Koperasi Wanita Asri Abadi,Desa Sumbersono,Dlanggu,TRUE,Konsumen,Kop. Wanita
+518,Koperasi Wanita Jrambe Barokah,Jrambe,Dlanggu,TRUE,Konsumen,Kop. Wanita
+519,Koperasi Pemuda Suka Makmur,Ds. Randu Genengan,Dlanggu,FALSE,Konsumen,Kop. Pemuda
+520,Koperasi Wanita Melati Putih,Desa Randu Genengan,Dlanggu,TRUE,Konsumen,Kop. Wanita
+521,Koperasi Pegawai Republik Indonesia Mekar,Desa Pohkecik,Dlanggu,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+522,Koperasi Syari ah Ponpes Minakhussaniyah,Pohkecik,Dlanggu,TRUE,Konsumen,Kop. Simpan Pinjam dan Pembiayaan Syariah
+523,Koperasi Simpan Pinjam Joyo Sukses Sejahtera,Pohkecik,Dlanggu,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+524,Koperasi Wanita Bina Mandiri,Desa Pohkecik,Dlanggu,TRUE,Konsumen,Kop. Wanita
+525,Koperasi Perkebunan Rosan Jaya,Pohkecik ,Dlanggu,TRUE,Produsen,Kop. Perkebunan
+526,Koperasi Serba Usaha Mitra Bersama,Desa Dlanggu,Dlanggu,TRUE,Konsumen,Kop. Serba Usaha
+527,KSPPS Firdaus,Dlanggu,Dlanggu,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+528,Koperasi Pasar Tanjungsari,,Dlanggu,FALSE,Pemasaran,Kop. Pasar
+529,Koperasi Wanita Kencono Wungu,Ds. Dlanggu,Dlanggu,TRUE,Konsumen,Kop. Wanita
+530,Koperasi Serba Usaha Artha Abadi,Dlanggu,Dlanggu,TRUE,Konsumen,Kop. Serba Usaha
+531,Koperasi Wanita Putri Kendedes,Ds. Dlanggu ,Dlanggu,TRUE,Konsumen,Kop. Wanita
+532,Koperasi Serba Usaha Artha Rahmat Sembada,Ngembeh,Dlanggu,TRUE,Konsumen,Kop. Serba Usaha
+533,Koperasi Unit Desa Usaha Tani,Ds. Ngembeh,Dlanggu,TRUE,Produsen,KUD
+534,Koperasi Wanita Intan,Ngembeh,Dlanggu,TRUE,Konsumen,Kop. Wanita
+535,KSPPS Wardah,Sumberkarang,Dlanggu,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+536,Koperasi Pondok Pesantren Mambaul Hikmah,Ds. Sumber Karang,Dlanggu,FALSE,Konsumen,Koppontren
+537,Koperasi Wanita Sri Rejeki Makmur,Desa Sumber Karang,Dlanggu,TRUE,Konsumen,Kop. Wanita
+538,KSPPS Aisyah Al-Hikmah,Kedunglengkong,Dlanggu,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+539,Koperasi Serba Usaha Mahkota Dewa,Kedunglengkong,Dlanggu,FALSE,Produsen,Kop. Serba Usaha
+540,Koperasi Wanita Larasati,Desa Kedunglengkong,Dlanggu,TRUE,Konsumen,Kop. Wanita
+541,Koperasi Serba Usaha Maju Mandiri,-,Dlanggu,FALSE,Konsumen,Kop. Serba Usaha
+542,Koperasi Wanita Sinar Mutiara,Desa Tumapel,Dlanggu,TRUE,Konsumen,Kop. Wanita
+543,Koperasi Serba Usaha Adiguna Persada,Sidomulyo,Puri,TRUE,Konsumen,Kop. Serba Usaha
+544,Pusat Koperasi Pegawai Negeri,Sooko,Puri,TRUE,Konsumen,Kop. Sekunder
+545,Koperasi Pegawai Negeri Sejahtera/Diskop,-,Puri,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+546,MINA BAROKAH MOJOPAHIT,,Puri,TRUE,Produsen,Kop. Lainnya
+547,Koperasi Karyawan Abadi,Ds. Tambak Agung ,Puri,FALSE,Konsumen,Kopkar
+548,KSPPS Jannatul Mawa 53,Tambakagung,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+549,Koperasi Karyawan Dakensa,Ds. Tambak Agung - Puri,Puri,FALSE,Konsumen,Kopkar
+550,Koperasi Karyawan Setia Abadi,Ds. Tambak Agung,Puri,FALSE,Konsumen,Kopkar
+551,Koperasi Pegawai Negeri Dharma Usaha,Ds. Tambak Agung,Puri,TRUE,Simpan Pinjam,Kop. Pegawai Negeri (KPRI)
+552,Koperasi Serba Usaha Jaya Karya Abadi,Ds. Tambakagung,Puri,FALSE,Konsumen,Kop. Serba Usaha
+553,Koperasi Wanita Tambakagung Sejahtera,Ds. Tambakagung ,Puri,TRUE,Konsumen,Kop. Wanita
+554,KSPPS Jannatul Mawa 51,Tampung Rejo,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+555,Koperasi Nusantara Al - Mubarok,Puri,Puri,TRUE,Konsumen,Kop. Lainnya
+556,Koperasi Wanita Plososari Mandiri,Desa Plososari,Puri,TRUE,Konsumen,Kop. Wanita
+557,Koperasi Perkebunan Gendhis Manis Abadi,Kintelan,Puri,TRUE,Konsumen,Kop. Pertanian
+558,Koperasi Wanita Tangguh,Desa Kintelan,Puri,TRUE,Konsumen,Kop. Wanita
+559,Koperasi Wanita Al Barokah,Brayung,Puri,TRUE,Konsumen,Kop. Wanita
+560,Koperasi Tani Sidorukun I,Ketamasdungus,Puri,TRUE,Produsen,Kop. Pertanian
+561,Koperasi Wanita Gendhis Ayu,Ketemasdungus,Puri,TRUE,Konsumen,Kop. Wanita
+562,Koperasi Jasa Keuangan Syariah Cipta Mandiri Amanah,Puri,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+563,Koperasi Pertanian Ikama,-,Puri,FALSE,Produsen,Kop. Pertanian
+564,Koperasi Pertanian Podo Rukun,-,Puri,FALSE,Produsen,Kop. Pertanian
+565,Koperasi Wanita Melati 3,Puri,Puri,TRUE,Konsumen,Kop. Wanita
+566,Koperasi Pegawai Negeri Dharma Karya,-,Puri,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+567,Koperasi Pegawai Negeri Dwija Usaha,Puri,Puri,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+568,Koperasi Unit Desa Sumber Pangan,Puri,Puri,TRUE,Produsen,KUD
+569,Koperasi Simpan Pinjam Surya Makmur,Kenanten,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+570,KSPPS Mukaromah,Tangunan,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+571,Koperasi Pedagang Kaki Lima Rasa,Ds. Tangunan,Puri,TRUE,Konsumen,Kop. Pedagang Kaki Lima
+572,Koperasi Wanita Sri Tanjung,Desa Tangunan,Puri,TRUE,Konsumen,Kop. Wanita
+573,Koperasi Serba Usaha Usaha Karya Jaya,Desa Tangunan,Puri,FALSE,Konsumen,Kop. Serba Usaha
+574,Koperasi Wanita Sriuni,Kebonagung,Puri,TRUE,Konsumen,Kop. Wanita
+575,Koperasi Karyawan Alpa Akasia,Ds. Kebon Agung,Puri,FALSE,Konsumen,Kopkar
+576,Koperasi Wanita Sumbegirang Indah,Desa Sumbergirang,Puri,TRUE,Konsumen,Kop. Wanita
+577,Koperasi Serba Usaha Ayem Tentrem,Sumber Girang,Puri,TRUE,Konsumen,Kop. Serba Usaha
+578,Koperasi Simpan Pinjam Majapahit Adi Perkasa,Mlaten,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+579,KOPERASI SIMPAN PINJAM MITRA SEMPURNA,Mlaten,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+580,KSPPS BMT Bala Oase Sejahtera,Mlaten,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+581,Koperasi Wanita Mlaten Mandiri,Desa Mlaten,Puri,TRUE,Konsumen,Kop. Wanita
+582,Koperasi Serba Usaha Rizquna,Ds. Medali,Puri,TRUE,Konsumen,Kop. Serba Usaha
+583,Koperasi Wanita Sahabat Medali,Desa Medali,Puri,TRUE,Konsumen,Kop. Wanita
+584,KOPERASI KONSUMEN SIMPAN PINJAM DAN PEMBIAYAAN SYARIAH BMT BANDES MEDALI EMAS,Medali,Puri,TRUE,Konsumen,Kop. Lainnya
+585,Koperasi Wanita Bina Mandiri Sejahtera,Desa Balongmojo,Puri,FALSE,Konsumen,Kop. Wanita
+586,Koperasi Wanita Kartini Sumolawang,Sumolawang,Puri,TRUE,Konsumen,Kop. Wanita
+587,KSPPS Jannatul Mawa 55,Kenanten,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+588,KSPPS Jannatul Mawa 54,Kenanten,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+589,Koperasi Distribusi Teladan,Kenanten,Puri,TRUE,Pemasaran,Kop. Serba Usaha
+590,Koperasi Wanita Al Hidayah,Ds.Kenanten,Puri,TRUE,Konsumen,Kop. Wanita
+591,Koperasi Guru PG-TK Putri Cendekia,Ds.Banjaragung,Puri,TRUE,Konsumen,Kop. Lainnya
+592,Koperasi Pegawai Negeri Cenderawasih,Banjaragung,Puri,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+593,KSPPS Nurul Falah,Banjaragung,Puri,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+594,Koperasi Pegawai Negeri Tut Wuri Handayani,Banjaragung,Puri,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+595,Koperasi Profesi Kowaki,-,Puri,FALSE,Konsumen,Kop. Profesi
+596,Koperasi Wanita Fitulung,Desa Banjaragung,Puri,TRUE,Konsumen,Kop. Wanita
+597,KOPERASI KONSUMEN PONDOK PESANTREN BAITUS SURUR,,Puri,TRUE,Konsumen,Kop. Serba Usaha
+598,KOPERASI KONSUMEN MOJOKERTO MAJU BERSAMA,Banjaragung,Puri,TRUE,Konsumen,Kop. Lainnya
+599,KOPERASI KONSUMEN PERMATA MULIA SEJAHTERA,Banjaragung,Puri,TRUE,Konsumen,Kop. Lainnya
+600,Koperasi Simpan Pinjam Sarana Menuju Sukses,Bejijong,Trowulan,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+601,Koperasi Mitra Indojaya,Sooko,Trowulan,TRUE,Konsumen,Kop. Serba Usaha
+602,Koperasi Sumber Makmur,balongwono,Trowulan,TRUE,Konsumen,Kop. Lainnya
+603,Koperasi Berkah Jaya Sentosa,,Trowulan,TRUE,Simpan Pinjam,Kop. Lainnya
+604,Koperasi Serba Usaha Bumi Artha Mulya,Ds.Trowulan,Trowulan,TRUE,Produsen,Kop. Serba Usaha
+605,KSPPS Jannatul Mawa 48,Trowulan,Trowulan,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+606,Koperasi Simpan Pinjam Tunas Sejahtera,Desa Trowulan,Trowulan,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+607,Koperasi Serba Usaha Bumi Artha Mulya,Trowulan,Trowulan,TRUE,Konsumen,Kop. Serba Usaha
+608,Koperasi Mulyo Tani,Ds. Trowulan,Trowulan,FALSE,Konsumen,Kop. Lainnya
+609,Koperasi Pegawai Negeri Ampera,Desa Trowulan,Trowulan,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+610,Koperasi Pegawai Negeri Purbakala,Trowulan,Trowulan,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+611,Koperasi Wanita Segaran,Trowulan,Trowulan,TRUE,Simpan Pinjam,Kop. Wanita
+612,KOPERASI PRODUSEN TOENGGAK SEMI PONDOK PESANTREN SEGORO AGUNG,Sentonorejo,Trowulan,TRUE,Produsen,Kop. Lainnya
+613,KSPPS Jannatul Mawa 50,Temon,Trowulan,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+614,Koperasi Wanita Ceria Makmur,Ds. Temon ,Trowulan,TRUE,Konsumen,Kop. Wanita
+615,KSPPS Jannatul Mawa 49,Pakis,Trowulan,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+616,Koperasi Pertanian Bina Sejahtera,Ds. Pakis,Trowulan,FALSE,Produsen,Kop. Pertanian
+617,Koperasi Pertanian KMDH Pakis Sejahtera,Ds. Pakis,Trowulan,TRUE,Produsen,Kop. Pertanian
+618,Koperasi Wanita Sugih Waras,Ds. Pakis ,Trowulan,TRUE,Konsumen,Kop. Wanita
+619,KOPERASI KONSUMEN BERSAMA ROHID SEJAHTERA,Pakis,Trowulan,TRUE,Konsumen,Kop. Lainnya
+620,KSPPS Jannatul Mawa 91,Beloh,Trowulan,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+621,Koperasi Wanita Fajar Mulia,Ds. Beloh ,Trowulan,TRUE,Konsumen,Kop. Wanita
+622,KSPPS Jannatul Ma wa 46,Domas,Trowulan,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+623,Koperasi Wanita Ken Dedes,Desa Domas,Trowulan,TRUE,Konsumen,Kop. Wanita
+624,KOPERASI SIMPAN PINJAM MAKMUR SEJATI,Jambuwok,Trowulan,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+625,Koperasi Serba Usaha Arta Kadinda Prima,Ds. Jambuwok,Trowulan,TRUE,Konsumen,Kop. Serba Usaha
+626,Koperasi Wanita Rukun Makmur,Desa Jambuwok ,Trowulan,TRUE,Konsumen,Kop. Wanita
+627,Koperasi Serba Usaha UFO,Desa Watesumpak,Trowulan,TRUE,Konsumen,Kop. Serba Usaha
+628,Koperasi Wanita Gayatri Sejahtera,Ds. Watesumpak ,Trowulan,FALSE,Konsumen,Kop. Wanita
+629,Koperasi Wanita Gapura Majapahit,Desa Jatipasar,Trowulan,TRUE,Konsumen,Kop. Wanita
+630,Koperasi Industri Kerajinan Rakyat Gajah Mada,Ds. Jatipasar,Trowulan,FALSE,Produsen,Kopinkra
+631,Koperasi Wanita Gapuro Mojopahit,Desa Jatipasar,Trowulan,TRUE,Konsumen,Kop. Wanita
+632,Koperasi Industri Kerajinan Rakyat Ganesha,Ds. Bejijong,Trowulan,TRUE,Produsen,Kopinkra
+633,Koperasi Wanita Putri Wijaya,Ds. Bejijong,Trowulan,TRUE,Konsumen,Kop. Wanita
+634,Koperasi Pemulung Tunas Harapan,Ds. Kejagan,Trowulan,FALSE,Konsumen,Kop. Lainnya
+635,Koperasi Wanita Kuncup Sejahtera,Ds. Kejagan,Trowulan,TRUE,Konsumen,Kop. Wanita
+636,Koperasi Perkebunan Wulan Jaya,Wonorejo,Trowulan,TRUE,Produsen,Kop. Perkebunan
+637,Koperasi Wanita Putri Pertiwi,Wonorejo,Trowulan,TRUE,Konsumen,Kop. Wanita
+638,Koperasi Pondok Pesantren Al Itthad,Ds. Tawangsari,Trowulan,FALSE,Konsumen,Koppontren
+639,Koperasi Pondok Pesantren Haqqul Amal,Ds. Tawangsari,Trowulan,FALSE,Konsumen,Koppontren
+640,Koperasi Wanita Mustika Dewi,Ds. Tawangsari ,Trowulan,TRUE,Konsumen,Kop. Wanita
+641,Koperasi Pondok Pesantren Haqqul Hikmah,Tawangsari,Trowulan,TRUE,Konsumen,Koppontren
+642,Koperasi Pondok Pesantren Al - Ittihad,Tawangsari ,Trowulan,TRUE,Konsumen,Koppontren
+643,KSPPS Jannatul Mawa 47,Panggih,Trowulan,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+644,Koperasi Wanita Tunas Harapan,Ds. Panggih,Trowulan,TRUE,Konsumen,Kop. Wanita
+645,Koperasi Wanita Kiprah Wanita,Ds. Panggih ,Trowulan,TRUE,Konsumen,Kop. Wanita
+646,Koperasi Unit Desa Tani Makmur,Bicak,Trowulan,TRUE,Produsen,KUD
+647,Koperasi Wanita Bicak Lestari,Ds. Bicak ,Trowulan,FALSE,Konsumen,Kop. Wanita
+648,Koperasi Pertanian Sumber Makmur,Ds. Balongwono,Trowulan,TRUE,Produsen,Kop. Pertanian
+649,Koperasi Wanita Bina Karya,Desa Balongwono,Trowulan,TRUE,Konsumen,Kop. Wanita
+650,KOPERASI PRODUSEN MAJA FLORA INDONESIA,Balongwono,Trowulan,TRUE,Produsen,Kop. Lainnya
+651,Koperasi Wanita Anugerah,,Sooko,TRUE,Konsumen,Kop. Wanita
+652,Koperasi Artha Mutiara Hati, Kedungpring,Sooko,FALSE,Konsumen,Kop. Serba Usaha
+653,Koperasi Serba Usaha Karya Bersama,-,Sooko,TRUE,Konsumen,Kop. Serba Usaha
+654,Koperasi Warga Dian Husada,,Sooko,TRUE,Konsumen,Kop. Lainnya
+655,Koperasi Karya Pena Sejahtera,,Sooko,TRUE,Simpan Pinjam,Kop. Lainnya
+656,Koperasi Ita Kita Sejahtera Jawa Timur,,Sooko,TRUE,Pemasaran,Kop. Lainnya
+657,Koperasi Pegawai Negeri Bina Sejahtera,-,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+658,Koperasi Wanita Tutur Mandiri,Sooko,Sooko,TRUE,Konsumen,Kop. Wanita
+659,Koperasi Karyawan Akpar Mojopahit,-,Sooko,TRUE,Konsumen,Kopkar
+660,Koperasi Karyawan Guntur,Sooko,Sooko,TRUE,Konsumen,Kopkar
+661,Koperasi Karyawan Maarif Attaawun,-,Sooko,FALSE,Konsumen,Kopkar
+662,Koperasi Simpan Pinjam Mitra Pratama Persada,Sooko,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+663,Koperasi Simpan Pinjam Rukun Sempurna,Sooko,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+664,Koperasi Karyawan Sakinah,Sooko,Sooko,TRUE,Konsumen,Kopkar
+665,Koperasi Karyawan Sub Dolog,-,Sooko,TRUE,Konsumen,Kopkar
+666,Koperasi Pegawai Negeri Wijaya Kusuma,Sooko,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+667,Koperasi Perternakan Masyarakat Mandiri,-,Sooko,TRUE,Produsen,Kop. Peternakan
+668,Koperasi Perternakan Rojokoyo,-,Sooko,TRUE,Produsen,Kop. Peternakan
+669,Koperasi Rukun Sejahtera,Sooko,Sooko,TRUE,Konsumen,Kop. Simpan Pinjam
+670,Koperasi Pegawai Negeri Budi Arta,Sooko,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+671,Koperasi Angkatan Darat Primkopad Mojopahit Sejahtera bersama,,Sooko,TRUE,Konsumen,Kop. Angkatan Darat
+672,Koperasi Al Mabrur,-,Sooko,FALSE,Konsumen,Kop. Lainnya
+673,Koperasi Usaha Sejahtera,-,Sooko,TRUE,Konsumen,Kop. Lainnya
+674,Koperasi Beringin Emas,Ds. Sooko,Sooko,TRUE,Konsumen,Kop. Lainnya
+675,Koperasi Pemuda Angsa (IPPNU),-,Sooko,FALSE,Konsumen,Kop. Pemuda
+676,KSPPS Jannatul Mawa 14,Japan,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+677,Koperasi Pondok Pesantren Al Amin,Sooko,Sooko,TRUE,Konsumen,Koppontren
+678,Primkopkar Kartika Mojopahit Sejahtera,Mojokerto,Sooko,TRUE,Konsumen,Kop. Angkatan Darat
+679,Koperasi Wanita Putri Cempo,Desa Kedungmaling,Sooko,TRUE,Konsumen,Kop. Wanita
+680,Persatuan Koperasi Pegawai Negeri,Mojokerto,Sooko,TRUE,Produsen,Kop. Lainnya
+681,Koperasi Pondok Pesantren Yaisra,-,Sooko,FALSE,Konsumen,Koppontren
+682,KPKUD,-,Sooko,FALSE,Konsumen,Kop. Sekunder
+683,Koperasi Wredatama Sejahtera,Sooko,Sooko,TRUE,Konsumen,Kop. Wredatama
+684,Koperasi Pegawai Negeri Amanah,-,Sooko,FALSE,Konsumen,Kop. Pegawai Negeri (KPRI)
+685,Koperasi Pegawai Negeri Bhakti Kencana,Sooko,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+686,Koperasi Pegawai Negeri Bina Marga,-,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+687,Koperasi Pegawai Negeri Diperta,-,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+688,Koperasi Pegawai Negeri Dwi Tunggal,Sooko,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+689,Koperasi Pegawai Negeri Eka Jaya,-,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+690,Koperasi Pegawai Negeri Kantor Pelayn Pajak (KPP),-,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+691,Koperasi Pegawai Negeri Keluarga Syariah,Desa Sooko,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+692,Koperasi Pegawai Negeri Kosma,Sooko,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+693,Koperasi Pegawai Negeri Macarti Tama,-,Sooko,FALSE,Konsumen,Kop. Pegawai Negeri (KPRI)
+694,Koperasi Pegawai Negeri Pengayoman,-,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+695,Koperasi Pegawai Negeri Penyantun,Sooko,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+696,Koperasi Pegawai Negeri Puspasari,-,Sooko,FALSE,Konsumen,Kop. Pegawai Negeri (KPRI)
+697,Koperasi Pegawai Negeri Rukun Adhyaksa,sooko,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+698,Koperasi Pegawai Negeri Sumber Makmur,Sooko,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+699,Koperasi Pegawai Negeri Teratai,-,Sooko,FALSE,Konsumen,Kop. Pegawai Negeri (KPRI)
+700,Koperasi Simpan Pinjam Artha Jaya,Ds. Sooko,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+701,Koperasi Simpan Pinjam Artha Prima,sooko,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+702,Koperasi Simpan Pinjam Syariah Amanah Sejahtera,Ds. Sooko,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+703,Koperasi Serba Usaha Bokashi Mandiri,Pondok Teratai,Sooko,TRUE,Konsumen,Kop. Serba Usaha
+704,KOPERASI KONSUMEN LAA ROIBA IGRA SEJAHTERA,Sooko,Sooko,TRUE,Konsumen,Kop. Lainnya
+705,Koperasi Simpan Pinjam Dana Kita,Brangkal,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+706,Koperasi Serba Usaha Sahabat,-,Sooko,TRUE,Konsumen,Kop. Serba Usaha
+707,Koperasi Simpan Pinjam Dana Anugerah,Desa Sooko,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+708,Koperasi Simpan Pinjam Kayat Jaya Makmur,Sooko,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+709,Koperasi Wanita Salimah,Sooko,Sooko,TRUE,Konsumen,Kop. Wanita
+710,Koperasi Simpan Pinjam Artha Jaya Mandiri Jawa Timur,Sooko,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+711,Koperasi Insan Transportasi Abadi Mojopahit,Sooko,Sooko,TRUE,Jasa,Kop. Angkutan Darat
+712,KSPPS Aisyah Al Bunyaan Marsus,Gemekan ,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+713,Koperasi Wanita Khoirun Nisa,Gemekan ,Sooko,TRUE,Konsumen,Kop. Wanita
+714,Koperasi Karunia Jaya,Gemekan,Sooko,TRUE,Konsumen,Kop. Lainnya
+715,Koperasi Wanita Prestasi,Ds. Blimbingsari,Sooko,TRUE,Konsumen,Kop. Wanita
+716,Koperasi Pondok Pesantren Al Muqorobin,Kedungmaling,Sooko,FALSE,Konsumen,Koppontren
+717,Koperasi Putera Mojopahit,Ds. Kedung Maling,Sooko,FALSE,Konsumen,Kop. Lainnya
+718,Koperasi Simpan Pinjam Sumber Hidup Mandiri,Kedung Maling,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+719,Koperasi Perkebunan Nira Sejahtera,Ds. Brangkal,Sooko,TRUE,Produsen,Kop. Perkebunan
+720,Koperasi Wanita Dewi Kunti,Ds. Kedungmaling ,Sooko,TRUE,Konsumen,Kop. Wanita
+721,KOPERASI KONSUMEN KOPONTREN RIYADLUL QURAN,Kedungmaling,Sooko,TRUE,Konsumen,Kop. Lainnya
+722,Koperasi Simpan Pinjam Artha Jaya Mandiri,Brangkal,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+723,Koperasi Simpan Pinjam Sumber Rejeki Baru,Brangkal,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+724,KOPERASI SIMPAN PINJAM BINA MANDIRI,Brangkal,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+725,Koperasi Karyawan Mega Gotong Royong II,-,Sooko,TRUE,Konsumen,Kopkar
+726,Koperasi Dana Sejahtera,Ds. Brangkal,Sooko,TRUE,Konsumen,Kop. Lainnya
+727,Koperasi PKM Goro Sumber M,Ds. Brangkal,Sooko,FALSE,Konsumen,Kop. Lainnya
+728,Koperasi Pasar Sumber Rejeki,Ds. Brangkal,Sooko,FALSE,Pemasaran,Kop. Pasar
+729,Koperasi Pondok Pesantren Al Ikhsan,Ds. Brangkal,Sooko,FALSE,Konsumen,Koppontren
+730,Koperasi Pondok Pesantren Riyadlul Jannah,Ds. Brangkal,Sooko,FALSE,Konsumen,Koppontren
+731,Koperasi Pertanian Nusantara Jaya,Ds. Brangkal,Sooko,FALSE,Produsen,Kop. Pertanian
+732,Koperasi Wanita Sri Rejeki,Ds. Brangkal,Sooko,FALSE,Konsumen,Kop. Wanita
+733,Koperasi Pegawai Negeri Karya Raharja,Ds. Brangkal,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+734,Koperasi Simpan Pinjam Rejeki Artha Prima,Ds. Brangkal,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+735,Koperasi Wanita Nusa Indah,Klinterejo ,Sooko,TRUE,Konsumen,Kop. Wanita
+736,Koperasi Wanita Sahabat Fatmawati,Desa Modongan,Sooko,TRUE,Konsumen,Kop. Wanita
+737,KOPERASI KONSUMEN BMT DARUS SHOLAH JAWA TIMUR,Modongan,Sooko,TRUE,Konsumen,Kop. Lainnya
+738,Koperasi Wanita Sambiroto Bangkit,Ds. Sambiroto,Sooko,TRUE,Konsumen,Kop. Wanita
+739,Koperasi pegawai Republik Indonesia BIMA,Ds.Jampirogo,Sooko,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+740,Koperasi Serba Usaha Cemerlang,Ds. Jampirogo,Sooko,TRUE,Konsumen,Kop. Serba Usaha
+741,Koperasi Wanita Teratai,Ds. Jampirogo,Sooko,TRUE,Konsumen,Kop. Wanita
+742,KJKS Artha Barokah Abadi,Japan,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+743,Koperasi Serba Usaha Surya Pratama,-,Sooko,TRUE,Konsumen,Kop. Serba Usaha
+744,Koperasi Industri Kerajinan Rakyat Brawijaya,Ds. Daleman,Sooko,TRUE,Produsen,Kopinkra
+745,KOPERASI KONSUMEN SYARIAH AN NISA KABUPATEN MOJOKERTO,3516130009,Sooko,TRUE,Konsumen,Kop. Wanita
+746,Koperasi Wanita Guna Mandiri,Desa Japan,Sooko,TRUE,Konsumen,Kop. Wanita
+747,Koperasi Serba Usaha Mahkota Nusantara, Jampirogo ,Sooko,TRUE,Konsumen,Kop. Serba Usaha
+748,KOPERASI SIMPAN PINJAM DAN PEMBIAYAAN SYARIAH BAITUL MAAL WAT TAMWIL NUSANTARA MOJOPAHIT,Japan,Sooko,TRUE,Simpan Pinjam,Kop. Lainnya
+749,Koperasi Unit Desa Sooko,Ds. Wringinrejo,Sooko,FALSE,Produsen,KUD
+750,Koperasi Wanita Rosela,Desa Wringinrejo,Sooko,TRUE,Konsumen,Kop. Wanita
+751,Koperasi Wanita Seroja,Ds. Karang Kedawang,Sooko,TRUE,Konsumen,Kop. Wanita
+752,Koperasi Wanita Indah,Mojoranu,Sooko,TRUE,Konsumen,Kop. Wanita
+753,Koperasi Wanita Harum Melati,Ds. Ngingasrembyong,Sooko,TRUE,Konsumen,Kop. Wanita
+754,Koperasi Simpan Pinjam Rendy Jaya Sejahtera,Ngingasrembyong,Sooko,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+755,Koperasi Simpan Pinjam Duta Mandiri,Bagusan,Gedek,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+756,Koperasi Serba Usaha Putra Mojokerto Bangkit,-,Gedek,FALSE,Konsumen,Kop. Serba Usaha
+757,Koperasi Wanita Ngares Berseri,Desa Ngares,Gedek,TRUE,Konsumen,Kop. Wanita
+758,Koperasi Wanita Gembongan Sejahtera,Ds. Gembongan ,Gedek,TRUE,Konsumen,Kop. Wanita
+759,Koperasi Pasar Sinar Gedeg,Ds. Gempolkrep,Gedek,TRUE,Pemasaran,Kop. Pasar
+760,Koperasi Energi Agro Nusantara Jawa Timur,Desa Gempolkerep,Gedek,TRUE,Konsumen,Kopkar
+761,Koperasi Serba Usaha Asa Jaya,-,Gedek,FALSE,Konsumen,Kop. Serba Usaha
+762,Koperasi Wanita Sahabat Kita,Gempolkerep,Gedek,TRUE,Konsumen,Kop. Wanita
+763,KOPERASI KONSUMEN ARTHA NIRA,,Gedek,TRUE,Konsumen,Kopkar
+764,Koperasi Wanita Lestari,Ds. Bandung,Gedek,TRUE,Konsumen,Kop. Wanita
+765,Koperasi Pondok Pesantren Maju Jaya, Ds. Bandung,Gedek,FALSE,Konsumen,Koppontren
+766,KSPPS Al-Hidayah,Bandung,Gedek,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+767,Koperasi Simpan Pinjam Karya Barokah Sentosa,Bandung,Gedek,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+768,Koperasi Wanita Tulus Bahagia,Bendung,Gedek,TRUE,Konsumen,Kop. Wanita
+769,Koperasi Wanita Rahayu UP2K,Bandung,Gedek,TRUE,Konsumen,Kop. Wanita
+770,Koperasi Simpan Pinjam Surya Abadi,Ds. Bandung,Gedek,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+771,Koperasi Unit Desa Gedeg,Gedeg,Gedek,TRUE,Produsen,KUD
+772,KUB Bukit Rosan Jatim,Gedeg,Gedek,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+773,Koperasi Simpan Pinjam dan Pembiayaan Syariah Melati,Desa Gedeg,Gedek,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+774,Koperasi Serba Usaha Mapan Jaya Abadi,Gedeg,Gedek,TRUE,Produsen,Kop. Serba Usaha
+775,Koperasi Pegawai Negeri Sejahtera Gedeg,Gedeg,Gedek,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+776,Koperasi Pegawai Negeri Gurya,-,Gedek,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+777,Koperasi Wanita Gedeg Sejahtera,Ds. Gedeg ,Gedek,TRUE,Konsumen,Kop. Wanita
+778,Koperasi Simpan Pinjam Gading Artha Sentosa,Gedeg,Gedek,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+779,Koperasi Syariah Manunggal Karsa,Pagerluyung,Gedek,TRUE,Konsumen,Kop. Simpan Pinjam dan Pembiayaan Syariah
+780,Koperasi Perkebunan Nira Mentari,Pagerluyung,Gedek,TRUE,Produsen,Kop. Perkebunan
+781,Koperasi Wanita Sri Rejeki,Desa Pagerluyung,Gedek,TRUE,Konsumen,Kop. Wanita
+782,Koperasi Simpan Pinjam Mitra Mandiri,Kemantren,Gedek,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+783,KSPPS Jannatul Mawa 68,Kemantren,Gedek,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+784,Koperasi Eka Sinar Abadi,Kemantren,Gedek,TRUE,Produsen,Kop. Serba Usaha
+785,Koperasi Wanita Bina Umat,Kemantren,Gedek,TRUE,Konsumen,Kop. Wanita
+786,Koperasi Simpan Pinjam Estu Utomo Gedeg,Ds. Bagusan,Gedek,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+787,Koperasi Wanita Dharma Bhakti,Desa Terusan,Gedek,TRUE,Konsumen,Kop. Wanita
+788,Koperasi Transportasi Hari Jaya Abadi,Terusan,Gedek,TRUE,Konsumen,Kop. Serba Usaha
+789,Koperasi Simpan Pinjam Mutiara Abadi Makmur,Sidoharjo,Gedek,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+790,KSPPS Jannatul Mawa 70,Sidoharjo,Gedek,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+791,Koperasi Wanita Puncak Ayu,Ds. Sidoharjo ,Gedek,TRUE,Konsumen,Kop. Wanita
+792,Koperasi Wanita Sumber Rejeki Jaya,Desa Balongsari,Gedek,TRUE,Konsumen,Kop. Wanita
+793,Koperasi Wanita An-nisa Al-Huda,Ds. Batankrajan,Gedek,TRUE,Konsumen,Kop. Wanita
+794,KSPPS Jannatul Mawa 67,Batankrajan,Gedek,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+795,Koperasi Wanita An Nisa Al Huda,Batan Krajan,Gedek,TRUE,Konsumen,Kop. Wanita
+796,KSPPS Dahlia,Pagerjo,Gedek,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+797,Koperasi Wanita An Nisa Al Barokah,Pagerjo,Gedek,TRUE,Konsumen,Kop. Wanita
+798,Koperasi Wanita Mawar,Jerukseger,Gedek,TRUE,Konsumen,Kop. Wanita
+799,KSPPS Jannatul Mawa 69,Jeruk Seger,Gedek,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+800,Koperasi Wanita Mawar UP2K,Jerukseger,Gedek,TRUE,Konsumen,Kop. Wanita
+801,Koperasi Wanita An Nisa Al Amanah,Beratiwetan,Gedek,TRUE,Pemasaran,Kop. Wanita
+802,KBPR Bumi Jaya,Ds. Kemlagi,Kemlagi,FALSE,Simpan Pinjam,K.B.P.R
+803,KSPPS Jannatul Mawa 80,Kemlagi,Kemlagi,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+804,Koperasi Pondok Pesantren Roudlotun Nasyiin,-,Kemlagi,TRUE,Konsumen,Koppontren
+805,Koperasi Pegawai Republik Indonesia Andayani,Desa Kemlagi,Kemlagi,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+806,Koperasi Pertanian KMDH Wana Jaya,Ds. Kemlagi,Kemlagi,FALSE,Produsen,Kop. Pertanian
+807,Koperasi Unit Desa Tani Jaya,Ds. Kemlagi,Kemlagi,TRUE,Pemasaran,KUD
+808,Koperasi Simpan Pinjam Anda Sukses,Kemlagi,Kemlagi,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+809,Koperasi Serba Usaha Multiguna Sejahtera,Kemlagi,Kemlagi,FALSE,Konsumen,Kop. Serba Usaha
+810,Koperasi Wanita Rosela Kemlagi,Ds. Kemlagi,Kemlagi,TRUE,Konsumen,Kop. Wanita
+811,Koperasi Pondok Pesantren Darul Ulum,Ds. Wates Projo,Kemlagi,FALSE,Konsumen,Koppontren
+812,Koperasi Wanita Mulya Praja,Ds. Watesprojo ,Kemlagi,TRUE,Konsumen,Kop. Wanita
+813,KOPERASI PRODUSEN PONDOK PESANTREN DARUL ULUM MOJOKERTO,Watesprojo,Kemlagi,TRUE,Produsen,Kop. Lainnya
+814,Koperasi Wanita Cempaka,Ds. Betro ,Kemlagi,TRUE,Konsumen,Kop. Wanita
+815,KSPPS Jannatul Mawa 79,Kedungsari,Kemlagi,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+816,Koperasi Rejeki Tani,Kedungsari ,Kemlagi,TRUE,Produsen,Kop. Pertanian
+817,Koperasi Wanita Kantini Kedungsari,Ds. Kedungsari ,Kemlagi,TRUE,Konsumen,Kop. Wanita
+818,Koperasi Wanita Mawar Berat Kulon,Ds. Berat Kulon,Kemlagi,TRUE,Konsumen,Kop. Wanita
+819,Koperasi Pondok Pesantren Al Barokah,Ds. Berat Kulon,Kemlagi,FALSE,Konsumen,Koppontren
+820,KOPERASI KONSUMEN PONDOK PESANTREN AL KHOZINY AL FATHIMIYAH MOJOKERTO,Beratkulon,Kemlagi,TRUE,Konsumen,Kop. Lainnya
+821,Koperasi Pondok Pesantren Al Bashar,Ds. Mojojajar,Kemlagi,FALSE,Konsumen,Koppontren
+822,Koperasi Wanita Bunda Mulia Mojojajar,Ds. Mojojajar ,Kemlagi,TRUE,Konsumen,Kop. Wanita
+823,Koperasi Wanita Harapan,Desa Mojosarirejo,Kemlagi,TRUE,Konsumen,Kop. Wanita
+824,Koperasi Wanita Kartini,Mojowiryo,Kemlagi,TRUE,Konsumen,Kop. Wanita
+825,KSPPS Jannatul Mawa 86,Mojowiryo,Kemlagi,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+826,Koperasi Wanita Sumber Makmur,Desa Mojowatesrejo,Kemlagi,TRUE,Konsumen,Kop. Wanita
+827,KSPPS Jannatul Mawa 87,Mojogebang,Kemlagi,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+828,Koperasi Pertanian Maju Makmur,Ds.Mojogebang,Kemlagi,TRUE,Produsen,Kop. Pertanian
+829,Koperasi Wanita Dewi Sartika Mojogebang,Ds. Mojogebang ,Kemlagi,TRUE,Konsumen,Kop. Wanita
+830,KSPPS Jannatul Mawa 76,Mojopilang,Kemlagi,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+831,Koperasi Pertanian Sidodadi,Mojopilang,Kemlagi,TRUE,Produsen,Kop. Pertanian
+832,Koperasi Wanita Melati Mojopilang,Ds. Mojopilang ,Kemlagi,TRUE,Konsumen,Kop. Wanita
+833,Koperasi Wanita Sejahtera,Mojokusumo,Kemlagi,TRUE,Konsumen,Kop. Wanita
+834,Koperasi Anggrek UP2K PKK,MOJOKUMPUL,Kemlagi,TRUE,Konsumen,Kop. Lainnya
+835,Koperasi Serba Usaha Sido Kumpul,"Semampir Lor, Mj. Kumpul",Kemlagi,TRUE,Konsumen,Kop. Serba Usaha
+836,Koperasi Wanita Anggrek 2,Ds. Mojokumpul,Kemlagi,TRUE,Konsumen,Kop. Wanita
+837,Koperasi Wanita Anggrek Putih,Desa Mojo Kumpul,Kemlagi,TRUE,Konsumen,Kop. Wanita
+838,KSPPS Jannatul Mawa 78,Japanan,Kemlagi,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+839,Koperasi Wanita Rahayu,Desa Japanan,Kemlagi,TRUE,Konsumen,Kop. Wanita
+840,Koperasi Pertanian KMDH Tanjung Lestari,Ds. Tanjungan,Kemlagi,FALSE,Produsen,Kop. Pertanian
+841,Koperasi Wanita Tanjung Lestari,Desa Tanjungan,Kemlagi,TRUE,Konsumen,Kop. Wanita
+842,Koperasi Simpan Pinjam Karya Sejahtera,Mojorejo,Kemlagi,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+843,Koperasi Wanita Dadi Artha Guna,Desa Mojodadi,Kemlagi,TRUE,Konsumen,Kop. Wanita
+844,Koperasi Jasa Keuangan Syariah Usaha Jaya,Mojowono,Kemlagi,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+845,Koperasi Pertanian KMDH Enggal Mulyo,Ds. Mojowono,Kemlagi,FALSE,Produsen,Kop. Pertanian
+846,Koperasi Wanita Citra Karya Mandiri,Mojowono ,Kemlagi,TRUE,Konsumen,Kop. Wanita
+847,Koperasi Pertanian KMDH Sumber Pandan Makmur,Ds. Pandankrajan,Kemlagi,FALSE,Produsen,Kop. Pertanian
+848,Koperasi Wanita Artha Lestari,Desa Pandan Krajan,Kemlagi,TRUE,Konsumen,Kop. Wanita
+849,Koperasi Pertanian KMDH Sido Mulyo,Ds. Mojodowo,Kemlagi,FALSE,Produsen,Kop. Pertanian
+850,Koperasi Wanita Sido Makmur,Desa Mojodowo,Kemlagi,TRUE,Konsumen,Kop. Wanita
+851,Koperasi Usaha Sejahtera Mandiri,Desa Lakar Dowo,Jetis,TRUE,Konsumen,Kop. Lainnya
+852,Koperasi Karya Usaha Baru Jatim,,Jetis,TRUE,Konsumen,Kop. Lainnya
+853,Koperasi Karyawan Artha Guna,Desa Mlirip,Jetis,TRUE,Konsumen,Kopkar
+854,Koperasi Bangun Mandiri,Ds. Mlirip,Jetis,FALSE,Konsumen,Kop. Lainnya
+855,Koperasi Pertanian Bina Tani Mandiri Jetis,Ds. Mlirip,Jetis,FALSE,Produsen,Kop. Pertanian
+856,Koperasi Wanita Usaha Bangkit,Ds. Mlirip ,Jetis,TRUE,Konsumen,Kop. Wanita
+857,Koperasi Syariah Nur Alam,Mlirip,Jetis,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+858,Koperasi Serba Usaha Usaha Nyata,Dsn. Penompo Ds. Penompo,Jetis,FALSE,Konsumen,Kop. Serba Usaha
+859,Koperasi Pondok Pesantren Abu Hasan,Ds. Penompo,Jetis,TRUE,Konsumen,Koppontren
+860,Koperasi Wanita Putri Penompo,,Jetis,TRUE,Konsumen,Kop. Wanita
+861,Koperasi Syariah Kita Bersaudara Jawa Timur,Jetis,Jetis,FALSE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+862,Koperasi Unit Desa Rukun Tani,Canggu,Jetis,TRUE,Produsen,KUD
+863,Koperasi Multi Usaha,Ds. Canggu,Jetis,FALSE,Konsumen,Kop. Lainnya
+864,Koperasi Serba Usaha Duta Persada,Ds. Canggu,Jetis,FALSE,Konsumen,Kop. Serba Usaha
+865,Koperasi Wanita Canggu Sejahtera,Ds. Canggu ,Jetis,TRUE,Konsumen,Kop. Wanita
+866,Koperasi Bhakti Tani,Canggu,Jetis,TRUE,Produsen,Kop. Pertanian
+867,Koperasi Serba Usaha Sakya Danamulia, Perum Puri Mojobaru,Jetis,TRUE,Konsumen,Kop. Serba Usaha
+868,Koperasi Simpan Pinjam KE 7,Canggu,Jetis,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+869,Koperasi Simpan Pinjam Tiga Putri,Canggu,Jetis,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+870,Koperasi Pondok Pesantren Al Maghfiroh,Ds. Ngabar,Jetis,FALSE,Konsumen,Koppontren
+871,Koperasi Pertanian Maju Sejahtera,Ngabar,Jetis,TRUE,Produsen,Kop. Pertanian
+872,Koperasi Wanita Sahabat Abadi Mulya,Desa Ngabar,Jetis,TRUE,Konsumen,Kop. Wanita
+873,Koperasi Simpan Pinjam Permata Jaya Abadi,Desa Banjarsari,Jetis,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+874,Koperasi Wanita An Nisa Bersatu,Desa Banjarsari,Jetis,TRUE,Konsumen,Kop. Wanita
+875,Koperasi Wanita Sawo Indah,Sawo ,Jetis,TRUE,Konsumen,Kop. Wanita
+876,Koperasi Simpan Pinjam Usaha Utama,Sawo ,Jetis,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+877,Koperasi Pertanian KMDH Tani Mulyo,Ds. Mojorejo,Jetis,TRUE,Produsen,Kop. Pertanian
+878,Koperasi Wanita Sri Kandi,Desa Mojo Rejo,Jetis,TRUE,Konsumen,Kop. Wanita
+879,Koperasi Wanita Setia Mandiri,Ds. Mojorejo ,Jetis,TRUE,Konsumen,Kop. Wanita
+880,KSPPS Jannatul Mawa 89,Jolotundo,Jetis,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+881,Koperasi Perkebunan Rosan Mapan,Ds. Jolotundo,Jetis,TRUE,Produsen,Kop. Perkebunan
+882,Koperasi Wanita Al Hikmah,Jolotundo,Jetis,TRUE,Konsumen,Kop. Wanita
+883,Koperasi Syariah Raja Jaya,Jolotundo,Jetis,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+884,Koperasi Wanita Delima,Ds. Kupang,Jetis,FALSE,Konsumen,Kop. Wanita
+885,Koperasi Pegawai Republik Indonesia Bahtera,Kupang,Jetis,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+886,KSPPS Jannatul Mawa 59,Bendung,Jetis,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+887,Koperasi Wanita Nusa Indah,Ds. Mojolebak,Jetis,FALSE,Konsumen,Kop. Wanita
+888,Koperasi Wanita Harapan Indah,Mojolebak ,Jetis,TRUE,Konsumen,Kop. Wanita
+889,Koperasi Pegawai Negeri Tunas Artha SMKN 1 Jetis,Jetis,Jetis,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+890,Koperasi Karyawan Rajawali,Ds. Parengan,Jetis,FALSE,Konsumen,Kopkar
+891,Koperasi Karyawan SMAC,Ds. Parengan,Jetis,FALSE,Konsumen,Kopkar
+892,Koperasi Sumber Jaya,Parengan,Jetis,TRUE,Konsumen,Kop. Serba Usaha
+893,Koperasi Wanita Sri Rejeki,Desa Parengan,Jetis,TRUE,Konsumen,Kop. Wanita
+894,Koperasi Simpan Pinjam Subur Sejahtera,-,Jetis,TRUE,Simpan Pinjam,Kop. Simpan Pinjam
+895,Koperasi Wanita Al Kautsar, Jetis,Jetis,TRUE,Konsumen,Kop. Wanita
+896,Koperasi Simpan Pinjam Mitra Usaha Mandiri,Jetis,Jetis,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+897,Koperasi Wanita Berkarya,Perning,Jetis,TRUE,Konsumen,Kop. Wanita
+898,KSPPS Jannatul Mawa 56,Perning,Jetis,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+899,KOPERASI JASA CAKA JAYA MANDIRI,Perning,Jetis,TRUE,Jasa,Kop. Lainnya
+900,Koperasi Wanita Sidorejo Sejahtera,Sidorejo,Jetis,TRUE,Konsumen,Kop. Wanita
+901,Koperasi Wanita Sekar Arum,Ds. Sidorejo,Jetis,FALSE,Konsumen,Kop. Wanita
+902,KSPPS Jannatul Mawa 60,Lakardowo,Jetis,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+903,Koperasi Pertanian KMDH Sumber Rejeki Wono Jaya,Ds. Lakardowo,Jetis,TRUE,Produsen,Kop. Pertanian
+904,Koperasi Wanita Lakar Jaya,Desa Lakardowo,Jetis,TRUE,Konsumen,Kop. Wanita
+905,Koperasi Simpan Pinjam Graha Mitra Sejahtera,,Dawarblandong,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+906,KJKS Amanah,Pulorejo ,Dawarblandong,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+907,Koperasi Wanita Cendoro Berseri,Desa Cendoro,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+908,Koperasi Pertanian KMDH Rekso Wono,Ds. Cendoro,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+909,Koperasi Pertanian UED,Simongagrok,Dawarblandong,TRUE,Produsen,Kop. Pertanian
+910,Koperasi Pertanian KMDH Wana Simo Makmur,Ds. Simongagrok,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+911,Koperasi Wanita Rahayu Lestari,Desa Simongagrok,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+912,Koperasi Syariah Mitra Artha Mandiri,Simongagrok ,Dawarblandong,TRUE,Simpan Pinjam,Kop. Simpan Pinjam dan Pembiayaan Syariah
+913,Koperasi Pertanian KMDH Wana Sumber Makmur,Ds. Sumberwuluh,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+914,Koperasi Wanita Sri Rejeki Indah,Desa Sumberwuluh,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+915,Koperasi Wanita Maju Jaya,Desa Talunblandong,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+916,Koperasi Wanita Sekar Arum,Ds. Cinandang ,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+917,Koperasi Pertanian Bina Makmur,Gunung Sari,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+918,Koperasi Pertanian KMDH Arta Makmur,Ds. Gunungsari,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+919,Koperasi Wanita Sido Mukti,Desa Gunungsari,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+920,Koperasi Pertanian Sumber Rejeki Dawarblandong,Ds. Dawar,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+921,Koperasi Pegawai Negeri Dwija Sentosa,Dawar Belandong,Dawarblandong,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+922,Koperasi Pertanian KMDH Tani Bina Mulya,Ds. Dawarblandong,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+923,Koperasi Wanita Kuncup Sakura,Ds. Dawarblandong ,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+924,Koperasi Pegawai Negeri Jaya,Ds.Pulorejo,Dawarblandong,TRUE,Konsumen,Kop. Pegawai Negeri (KPRI)
+925,Koperasi Pertanian Kopdes Jaya Makmur,Ds. Pulorejo,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+926,Koperasi Pertanian Makmur,Ds. Pulorejo,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+927,Koperasi Simpan Pinjam Mitra Artha Graha,Pulorejo,Dawarblandong,FALSE,Simpan Pinjam,Kop. Simpan Pinjam
+928,Koperasi Wanita Arum Makaryo,Desa Pulorejo,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+929,Koperasi Perkebunan Rosan Makmur,Jatirowo,Dawarblandong,TRUE,Produsen,Kop. Perkebunan
+930,Koperasi Pertanian KMDH Sari Makmur Jatirowo,Ds. Jatirowo,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+931,Koperasi Wanita Jati Makmur,Ds. Jatirowo ,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+932,Koperasi Serba Usaha Agrobis Guno Karso,Dsn. Semanding Ds. Suru,Dawarblandong,TRUE,Konsumen,Kop. Serba Usaha
+933,Koperasi Pertanian KMDH Tani Makmur,Ds. Suru,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+934,Koperasi Wanita Melati Indah Mekar,Ds. Suru ,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+935,Koperasi Wanita Mandiri Sejahtera,Ds.Bangeran,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+936,Koperasi Pertanian KMDH Wana Asri,Ds. Bangeran,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+937,Koperasi Pertanian Sari Rejeki,Ds. Pucuk,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+938,Koperasi Pertanian KMDH Wana Lestari,Ds. Pucuk,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+939,Koperasi Wanita Bina Usaha,Pucuk ,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+940,Koperasi Unit Desa Dawarblandong,Banyulegi,Dawarblandong,TRUE,Produsen,KUD
+941,Koperasi Wanita Srikandi,Ds.Banyulegi,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+942,Koperasi Pertanian Harapan Makmur,Ds. Gunungan,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+943,Koperasi Serba Usaha Barokah Sukses Makmur,Gunungan,Dawarblandong,TRUE,Konsumen,Kop. Serba Usaha
+944,Koperasi Wanita Gunungan Jaya,Gunungan ,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+945,Koperasi Pertanian KMDH Sumber Wana,Ds. Brayublandong,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+946,Koperasi Wanita Mekar Jaya,Brayublandong,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+947,Koperasi Pertanian KMDH Wana Madu Rasa,Ds. Madureso,Dawarblandong,FALSE,Produsen,Kop. Pertanian
+948,Koperasi Wanita Madu Lancar,Desa Madureso,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+949,Koperasi Pertanian Tani Santoso,Ds. Temu Ireng,Dawarblandong,TRUE,Produsen,Kop. Pertanian
+950,Koperasi Wanita Temu Rukun,Temuireng,Dawarblandong,TRUE,Konsumen,Kop. Wanita
+951,Koperasi Wanita Lancar Jaya,Randegan,Dawarblandong,TRUE,Konsumen,Kop. Wanita
