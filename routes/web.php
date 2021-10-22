@@ -48,6 +48,7 @@ function addText ($image, $text, $x, $y) {
 
 // HOME
 Route::get('/', function () { return view('welcome'); })->name('home');
+Route::get('/jadwal', function () { return view('pages.schedule'); })->name('schedule');
 Route::get('/download', function () {
     $path = request()->get('path', null);
     if (!$path) return abort(404);

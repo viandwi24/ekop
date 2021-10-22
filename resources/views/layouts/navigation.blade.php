@@ -3,6 +3,7 @@
         ['text' => 'Registrasi', 'link' => route('registration'), 'active' => request()->routeIs('registration')],
         ['text' => 'Pendirian Koperasi', 'link' => route('cooperative.establishment'), 'active' => request()->routeIs('cooperative.establishment')],
         ['text' => 'Pendidikan Koperasi', 'link' => route('cooperative.education'), 'active' => request()->routeIs('cooperative.education')],
+        ['text' => 'Jadwal pembinaan koperasi', 'link' => route('schedule'), 'active' => request()->routeIs('schedule')],
     ];
 
     $adminMenu = [
