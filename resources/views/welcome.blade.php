@@ -68,6 +68,7 @@
                         <table id="list-cooperatives">
                             <thead>
                                 <tr>
+                                    <th>#</th>
                                     <th data-name="name">Nama Koperasi</th>
                                     <th data-name="village">Desa</th>
                                     <th data-name="districts">Kecamatan</th>
@@ -79,7 +80,7 @@
                             <tbody>
                                 @foreach ($cooperatives as $cooperative)
                                     <tr>
-                                        {{-- <td>{{ $loop->iteration }}</td> --}}
+                                        <td>{{ $loop->iteration }}</td>
                                         <td>{{ $cooperative->name }}</td>
                                         <td>
                                             @if ($cooperative->village)
@@ -147,6 +148,7 @@
                     // datatable.clear().draw()
                     // datatable.reload()
                 });
+
                 $('#list-cooperatives thead tr')
                     .clone(true)
                     .addClass('filters')
@@ -163,11 +165,16 @@
                             .columns()
                             .eq(0)
                             .each(function (colIdx) {
+                                // alert($(api.column(colIdx).header()))
+
                                 // Set the header cell to contain the input element
                                 var cell = $('.filters th').eq(
                                     $(api.column(colIdx).header()).index()
                                 );
                                 var title = $(cell).text();
+
+                                if ($(api.column(colIdx).header()).index() == 0) return $(cell).html('');
+
                                 $(cell).html('<input data-name="' + title + '" type="text" placeholder="' + title + '" />');
 
                                 // On every keypress in this input
