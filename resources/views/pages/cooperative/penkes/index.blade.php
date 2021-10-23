@@ -41,7 +41,7 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 bg-white border-b border-gray-200">
                     <div class="text-xl font-semibold mb-2">
-                        Riwayat Pengaduan
+                        Riwayat Pemeriksaan
                     </div>
                     <table class="table table-sm table-striped table-bordered">
                         <thead>
