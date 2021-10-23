@@ -116,7 +116,7 @@
                             </div>
                         </div>
                         <x-button class="w-full justify-center">
-                            {{ __('Register') }}
+                            {{ __('Simpan') }}
                         </x-button>
                     </form>
                 </div>
