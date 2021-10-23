@@ -46,7 +46,7 @@
                             <x-input id="location" class="block mt-1 w-full" type="text" name="location" :value="$confirm_assistance->location" required />
                         </div>
                         <div class="mb-2">
-                            <x-label for="client_name" :value="__('Nama Klien')" />
+                            <x-label for="client_name" :value="__('Nama Petugas')" />
                             <x-input id="client_name" class="block mt-1 w-full" type="text" name="client_name" :value="$confirm_assistance->client_name" required />
                         </div>
                         <div class="mb-2">
