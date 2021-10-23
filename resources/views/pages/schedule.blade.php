@@ -67,9 +67,9 @@
                                         <tr>
                                             <td>{{ $loop->iteration }}</td>
                                             <td>
-                                                @if ($item->client_name)
-                                                    {{ $item->client_name }}
-                                                @elseif ($item->personal_data->cooperative)
+                                                {{-- @if ($item->client_name)
+                                                    {{ $item->client_name }} --}}
+                                                @if ($item->personal_data->cooperative)
                                                     {{ $item->personal_data->cooperative->name }}
                                                 @else
                                                     {{ $item->personal_data->name }}
