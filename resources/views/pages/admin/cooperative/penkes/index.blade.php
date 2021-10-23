@@ -2,7 +2,7 @@
 
 @section('header')
     <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-        {{ __('Menu Penkes') }}
+        {{ __('Menu Pemeriksaan Kesehatan') }}
     </h2>
 @endsection
 
@@ -27,7 +27,7 @@
                                             <th>Nama</th>
                                             <th>Alamat</th>
                                             <th>No Telepon</th>
-                                            <th>Nilai Kesehatan</th>
+                                            <th>Hasil Pemeriksaan</th>
                                             <th>File Bukti</th>
                                             <th>Sertifikat</th>
                                             <th>Status</th>
@@ -74,7 +74,7 @@
                                         <tr>
                                             <th width="5%">#</th>
                                             <th>Nama</th>
-                                            <th>Nilai Kesehatan</th>
+                                            <th>Hasil Pemeriksaan</th>
                                             <th>Kategori</th>
                                             <th>Solusi</th>
                                             <th>Keputusan Akhir</th>

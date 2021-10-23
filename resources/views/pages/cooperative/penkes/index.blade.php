@@ -2,7 +2,7 @@
 
 @section('header')
     <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-        {{ __('Menu Penkes') }}
+        {{ __('Menu Pemeriksaan Kesehatan') }}
     </h2>
 @endsection
 
@@ -15,13 +15,13 @@
                     <form method="POST" action="{{ route('cooperative.penkes.store') }}" enctype="multipart/form-data">
                         @csrf
                         <div class="text-xl font-semibold mb-2">
-                            FORMULIR
+                            INPUT HASIL SUPERVISI
                         </div>
                         <div class="my-2 text-xs underline hover:text-blue-500">
-                            <a href="{{ asset('examples/Sistem Input Kertas Kerja Pemeriksaan Kesehatan KSP KUK I dan II 210820.xlsx') }}">Unduh File Kertas Kerja Pemeriksaan Kesehatan</a>
+                            <a href="{{ asset('examples/Sistem Input Kertas Kerja Pemeriksaan Kesehatan KSP KUK I dan II 210820.xlsx') }}">Form supervisi, advokasi dan mentorship</a>
                         </div>
                         <div class="mb-2">
-                            <x-label for="health_score" :value="__('Nilai Kesehatan')" />
+                            <x-label for="health_score" :value="__('Hasil Pemeriksaan')" />
                             <x-input pattern="^\d*(\.\d{0,2})?$" step="any" id="health_score" class="block mt-1 w-full" type="number" min="0" name="health_score" :value="old('health_score', 0)" required />
                         </div>
                         <div class="mb-2">
@@ -50,7 +50,7 @@
                                 <th>Koperasi</th>
                                 <th>Alamat</th>
                                 <th>No Telepon</th>
-                                <th>Nilai Kesehatan</th>
+                                <th>Hasil Pemeriksaan</th>
                                 <th>Pada</th>
                                 <th>Dikonfirmasi?</th>
                                 <th>Sertifikat</th>

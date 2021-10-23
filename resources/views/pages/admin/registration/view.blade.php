@@ -6,6 +6,14 @@
     </h2>
 @endsection
 
+@php
+    if ($cooperative->legal_entity_approval === '1') $legal_entity_approval = 'Deputi Bidang Kelembagaan KUKM atas Nama Menteri';
+    if ($cooperative->legal_entity_approval === '2') $legal_entity_approval = 'Gubernur atas Nama Menteri';
+    if ($cooperative->legal_entity_approval === '3') $legal_entity_approval = 'Bupati/Walikota atas Nama Menteri';
+    if ($cooperative->legal_entity_approval === '4') $legal_entity_approval = 'Kemenkumham';
+    if ($cooperative->legal_entity_approval === '5') $legal_entity_approval = 'Tidak Tahu';
+@endphp
+
 @section('content')
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
@@ -15,7 +23,7 @@
 NIK : {{ ($cooperative->nik) ? $cooperative->nik : '-' }}
 Nomor Badan Hukum : {{ $cooperative->legal_entity_number }}
 Tanggal Badan Hukum : {{ $cooperative->legal_entity_date }}
-Badan Hukum Yang Menyetujui : {{ $cooperative->legal_entity_approval }}
+Badan Hukum Yang Menyetujui : {{ $legal_entity_approval }}
 Domisili : {{ $cooperative->cooperative_domicile }}
 Notaris : {{ $cooperative->notary }}
 NPWP : {{ $cooperative->npwp }}

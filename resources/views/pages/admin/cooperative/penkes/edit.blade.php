@@ -2,7 +2,7 @@
 
 @section('header')
     <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-        {{ __('Menu Penkes') }}
+        {{ __('Menu Pemeriksaan Kesehatan') }}
     </h2>
 @endsection
 
@@ -16,10 +16,10 @@
                         @csrf
                         @method('PUT')
                         <div class="text-xl font-semibold mb-2">
-                            FORMULIR
+                            INPUT HASIL SUPERVISI
                         </div>
                         <div class="mb-2">
-                            <x-label for="health_score" :value="__('Nilai Kesehatan')" />
+                            <x-label for="health_score" :value="__('Hasil Pemeriksaan')" />
                             <x-input pattern="^\d*(\.\d{0,2})?$" step="any" id="health_score" class="block mt-1 w-full" type="number" name="health_score" :value="$confirm_assistance->personal_data->health_score" required />
                         </div>
                         <div class="mb-2 text-xs underline hover:text-blue-500">

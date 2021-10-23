@@ -44,7 +44,11 @@
                                 </div>
                                 <div class="mt-1">
                                     <x-input id="legal_entity_approval_4" type="radio" name="legal_entity_approval" value="4" required />
-                                    <x-label for="legal_entity_approval_4" value="Tidak Tahu" class="inline-block text-sm ml-1" />
+                                    <x-label for="legal_entity_approval_4" value="Kemenkumham" class="inline-block text-sm ml-1" />
+                                </div>
+                                <div class="mt-1">
+                                    <x-input id="legal_entity_approval_5" type="radio" name="legal_entity_approval" value="5" required />
+                                    <x-label for="legal_entity_approval_5" value="Tidak Tahu" class="inline-block text-sm ml-1" />
                                 </div>
                             </div>
                         </div>

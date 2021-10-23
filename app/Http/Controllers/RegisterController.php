@@ -29,7 +29,7 @@ class RegisterController extends Controller
             'name' => ['required', 'string', 'min:3'],
             'legal_entity_number' => ['required', 'string', 'min:3'],
             'legal_entity_date' => ['required', 'date'],
-            'legal_entity_approval' => ['required', 'in:1,2,3,4'],
+            'legal_entity_approval' => ['required', 'in:1,2,3,4,5'],
             'cooperative_domicile' => ['required', 'string', 'min:3'],
             'notary' => ['required', 'string', 'min:3'],
             'npwp' => ['required', 'string', 'min:3'],
