@@ -26,7 +26,7 @@
                             <a href="{{ route('download', ['path' => $confirm_assistance->personal_data->file_path]) }}">Unduh File Bukti Kertas Kerja Pemeriksaan Kesehatan</a>
                         </div>
                         <div class="text-xl font-semibold mt-6 mb-2">
-                            KONFIRMASI PENDAMPINGAN
+                            KONFIRMASI PEMERIKSAAN KESEHATAN
                         </div>
                         <div class="mb-2">
                             <x-label for="solution" :value="__('Solusi')" />

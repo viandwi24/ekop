@@ -31,7 +31,7 @@
                             <x-input id="phone" class="block mt-1 w-full" type="text" name="phone" :value="$confirm_assistance->personal_data->phone" required />
                         </div>
                         <div class="text-xl font-semibold mt-6 mb-2">
-                            KONFIRMASI PENDAMPINGAN
+                            KONFIRMASI PENDIRIAN KOPERASI
                         </div>
                         <div class="mb-2">
                             <x-label for="submission_at" :value="__('Tanggal Pengajuan')" />

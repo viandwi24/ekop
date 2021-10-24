@@ -27,7 +27,7 @@
                             <x-input id="reason" class="block mt-1 w-full" type="text" name="reason" :value="$confirm_assistance->personal_data->reason" required />
                         </div>
                         <div class="text-xl font-semibold mt-6 mb-2">
-                            KONFIRMASI PENDAMPINGAN
+                            KONFIRMASI ADVOKASI
                         </div>
                         <div class="mb-2">
                             <x-label for="solution" :value="__('Solusi')" />
